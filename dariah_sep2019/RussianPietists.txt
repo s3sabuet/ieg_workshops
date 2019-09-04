@@ -1,0 +1,3433 @@
+#00 n0015676
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 A 81l
+#25 Moskau
+#26 Moscau
+#27 2 Bl., davon 3 S. beschr.
+#28 9a
+#29 0068 re - 0069 re
+#30 Brief
+#31 Abschrift
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seine Amtsführung in Moskau, u. a. seine Rückkehr aus Pleskau und Nowgorod; Empfehlung für die Nachfolge von Ph. Michaelis in Nowgorod; Angebot an Scharschmidt, mit Kapitän J. Meier nach Astrachan und Asov zu gehen; Bitte um Entsendung eines Predigers aus Halle nach Asov; Nachricht Scharschmidts über seine Unterkünfte in Moskau; Grüáe an P. Müller und Nachricht über dessen Mutter und Schwester [A. Eberhard].
+#37 Vgl. Ausfertigung unter AFSt/H  C 296 : 39.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Michaelis, Philipp; Meier, Jeremias; Müller, Peter; Eberhard, Anna
+#60 Amtsführung; Stellenangebot; Prediger; Reise; Unterkunft
+#62 Moskau; Astrachan; Nowgorod; Asov; Halle (Saale)
+#63 Winter, Eduard: Halle als Ausgangspunkt der deutschen Ruálandkunde im 18. Jahrhundert. Berlin 1953, S. 290.
+#65 15.04.1701
+#66 1701.04.15
+#91 XA-RU
+#99e20170313/14:36:54-33082/236 oJ.Groeschl
+#99n20021101
+
+#00 n0018738
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an Philipp Jacob Spener.
+#22 A 159
+#24 : 19
+#25 Astrachan
+#28 19a
+#29 0468 re - 0469 li
+#31 Ausfertigung
+#33 deutsch
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Spener, Philipp Jakob
+#65 10.09.1701
+#66 1701.09.10
+#91 XA-RU
+#99e20140918/08:49:33-34032/209 oJ.Groeschl
+#99n20021104
+
+#00 n0019700
+#11 k 5302948-3
+#18 AFSt/H
+#18aFranckesche Stiftungen <Halle, Saale> / Archiv
+#20 Bericht von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 A 172
+#24 : 37
+#25 Halle (Saale)
+#27 2 Bl.
+#30 Bericht
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht über die Umstände des Kaufs des baschkirischen Tatarenkinds Enos, seine Annahme als Pflegesohn J. S. Scharschmidts und ihre gemeinsame Rückkehr nach Deutschland.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#52 Enos
+#60 Pflegekind; Tartaren; Rückkehr
+#62 Halle (Saale)
+#65 08.11.1718
+#66 1718.11.08
+#82 8
+#91 XA-DE
+#99e20170313/14:37:15-115136/1061 oJ.Groeschl
+#99n20021105
+
+#00 n0032744
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 1
+#25 Erfurt
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht J. S. Scharschmidts über seine Ankunft und Unterbringung in Erfurt; Mitteilung über seine dortige Informatorentätigkeit.
+#36 Siegel
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Ankunft; Arbeitsbedingungen; Informator
+#62 Erfurt
+#65 17.07.1692
+#66 1692.07.17
+#78 Restauriert 2009.
+#91 XA-DE
+#99e20170321/11:13:22-100873/4980 oJ.Groeschl
+#99n20021107
+
+#00 n0030771
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 2
+#25 Erfurt
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilung J. S. Scharschmidts über theologische Auseinandersetzungen u. a. mit J. Javert.
+#36 Siegel
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Jawert, Johann
+#60 Pietismusstreit; Streit
+#62 Erfurt
+#65 26.11.1692
+#66 1692.11.26
+#68 26 9br 92
+#78 Restauriert 2009.
+#91 XA-DE
+#99e20170321/11:13:22-74019/4981 oJ.Groeschl
+#99n20021107
+
+#00 n0030772
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 3
+#25 Erfurt
+#26 Erf.
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilung J. S. Scharschmidts über seine Informatorentätigkeit in Erfurt; damit in Zusammenhang stehende geistliche Betrachtungen; Nachricht über Gespräch Scharschmidts mit J. A. Zinck in Wasungen; Zincks Absicht, A. H. Francke in Halle zu besuchen.
+#36 Siegelfragmente
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Zinck, Johann Adam
+#60 Informator; Arbeitsbedingungen; Zusammenkunft; Erbauung; Besuch
+#62 Erfurt; Wasungen
+#65 04.11.1692
+#66 1692.11.04
+#78 Restauriert 2009.
+#91 XA-DE
+#99e20170321/11:13:22-100874/4982 oJ.Groeschl
+#99n20021107
+
+#00 n0030773
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 4
+#25 Erfurt
+#26 Erf.
+#27 1 Bl.
+#30 Brief
+#31 Aufertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über theologische Auseinandersetzungen mit H. N. Stieler und J. Javert.
+#36 Siegelfragment
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Jawert, Johann; Stieler, Hermann Nikolaus
+#60 Pietismusstreit; Streit
+#62 Erfurt
+#65 12.11.1692
+#66 1692.11.12
+#91 XA-DE
+#99e20170321/11:13:22-73836/4983 oJ.Groeschl
+#99n20021107
+
+#00 n0030774
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 5
+#25 Quedlinburg
+#26 Quedlinb.
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch; lateinisch
+#34 nein
+#35 Nachricht J. S. Scharschmidt über seinen Umzug nach Quedlinburg; Nachricht über die Auseinandersetzungen um den Diakon [J. F.] Graf aus Erfurt; Angelegenheiten verschiedene lateinische Schriften betreffend, u. a. deren Übersetzung.
+#36 Siegelfragment
+#38 ger; lat
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Graf, Johann Friedrich
+#60 Wohnungswechsel; Streit; Übersetzung
+#62 Quedlinburg; Erfurt
+#65 03.11.1693
+#66 1693.11.03
+#68 3. 9br 93.
+#78 Restauriert 2009.
+#91 XA-DE
+#99e20170321/11:13:22-100487/4984 oJ.Groeschl
+#99n20021107
+
+#00 n0030775
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 6
+#25 Königsberg
+#26 Königsberg i. Pr.
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch; lateinisch
+#34 nein
+#35 Geistliche Betrachtungen; Mitteilung J. S. Scharschmidts über seine Arbeitsumstände in Königsberg, u. a. seine Tätigkeiten als Informator und Katechet sowie die Gründung eines Bibelkollegiums; Teilnahme Ch. Densos an diesem Bibelkollegium.  Postskriptum: Postangelegenheiten.
+#38 ger; lat
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Denso, Christoph
+#60 Erbauung; Arbeitsbedingungen; Katechet; Informator; Bibel; Konventikel; Post
+#62 Königsberg
+#65 26.08.1694
+#66 1694.08.26
+#78 Restauriert 2009.
+#91 XA-DE
+#99e20170321/11:13:22-101274/4985 oJ.Groeschl
+#99n20021107
+
+#00 n0030776
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 7
+#25 Koikel
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Geistliche Betrachtungen; Bericht J. S. Scharschmidts über seine Reise von Königsberg nach Riga und seine Bekanntschaft mit Pastor Dörper in Libau; Mitteilung Scharschmidts über seine neue Anstellung als Informator der Söhne F. v. Dahlens; Bemerkungen zur Verlegung der Universität Dorpat nach Pernau.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Dörper, Luther; Dahlen, Franz von
+#60 Erbauung; Reise; Stellenbesetzung; Informator
+#61 Universität <Dorpat>
+#62 Koikel; Königsberg; Riga; Libau; Dorpat; Pernau
+#65 07.03.1695
+#66 1695.03.07
+#78 Restauriert 2009.
+#91 XA-EE
+#99e20170321/11:13:22-100877/4986 oJ.Groeschl
+#99n20021107
+
+#00 n0030777
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 8
+#25 Dorpat
+#26 Dörpt
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Postangelegenheiten; Mitteilung des Entschlusses J. S. Scharschmidts, sich nach Moskau zu begeben; Erörterung der Umstände für diese Entscheidung.  Postskriptum: Nachricht Scharschmidts über das Wirken des Teufels in Koikel.
+#36 Siegel
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Post; Wohnungswechsel; Teufelsglaube
+#62 Dorpat; Koikel; Moskau
+#65 27.01.1696
+#66 1696.01.27
+#78 Restauriert 2009.
+#91 XA-EE
+#99e20170321/11:13:22-77977/4987 oJ.Groeschl
+#99n20021107
+
+#00 n0030778
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 9
+#25 Koikel
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilung J. S. Scharschmidts über seine bevorstehende Reise nach Moskau und seinen Aufenthalt in Riga; Nachricht über den Tod der Ehefrau [R. E. Fischer] und weiterer Angehöriger J. Fischers; Mitteilung über die Gratulation Scharschmidts an Pastor [L.] Dörper zum Wiederantritt seines Amtes nach einer Suspendierung wegen falscher Beschuldigungen; Wunsch Scharschmidts nach Entsendung von Studenten aus Halle nach Koikel; Absicht J. Fischers, Herrn Bock als Informator seiner Kinder einzustellen; Mitteilung über eine Teuerungswelle in Livland.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Fischer, Rosina Elisabeth; Fischer, Johann, 1636-1705; Bock, 1696; Dörper, Luther
+#60 Reise; Todesanzeige; Amtsantritt; Stellenangebot; Informator; Preissteigerung
+#62 Koikel; Livland; Moskau; Riga
+#65 23.04.1696
+#66 1696.04.23
+#78 Restauriert 2009.
+#91 XA-EE
+#99e20170321/11:13:22-58506/4988 oJ.Groeschl
+#99n20021107
+
+#00 n0030779
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 10
+#25 Pleskau
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht J. S. Scharschmidts über seinen Aufenthalt in Pleskau, u. a. die Hindernisse auf der Reise nach Moskau betreffend.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Reise
+#62 Pleskau; Moskau
+#65 12.06.1696
+#66 1696.06.12
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:23-100878/4989 oJ.Groeschl
+#99n20021107
+
+#00 n0030780
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 11
+#25 Moskau
+#26 Moscau
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seine Reise aus Pleskau nach Moskau, u. a. Schilderung eines Schiffsunglücks in Tweer.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Reise; Schiffbruch
+#62 Moskau; Tweer
+#65 22.09.1696
+#66 1696.09.22
+#68 22. 7br. 96.
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:23-100879/4990 oJ.Groeschl
+#99n20021107
+
+#00 n0030781
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 12
+#25 Moskau
+#26 Moscau
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seine Arbeits- und Lebensverhältnisse in Moskau; Absicht von L. Blumentrost, einen seiner Söhne [J. D. Blumentrost] nach Halle zu schicken; Bitte um Empfehlung eines Informators für die Kinder in der Ugotskoi Eisenhütte.  Postskriptum: Mitteilung über eine freie Informatorenstelle bei einem Russen.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Blumentrost, Laurentius, 1619-1705; Blumentrost, Johann Deodat
+#60 Arbeitsbedingungen; Lebensbedingungen; Stellenangebot; Informator
+#61 Ugotskoi Eisenhütte <Moskau>
+#62 Moskau; Halle (Saale)
+#65 25.01.1697
+#66 1697.01.25
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:23-83006/4991 oJ.Groeschl
+#99n20021107
+
+#00 n0030782
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an Heinrich Wilhelm Ludolf.
+#22 C 296
+#24 : 13
+#25 Moskau
+#26 Moscoviae
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 lateinisch
+#34 nein
+#35 Bekanntschaft J. S. Scharschmidts mit H. W. Ludolf; Dank für Ludolfs Kontaktaufnahme in Russland mit Unterstützung A. H. Franckes als Voraussetzung für Scharschmidts Tätigkeit; Korrespondenz zwischen Ludolf und Scharschmidt; Scharschmidts Meinung zu der von Ludolf empfohlenen Erlernung der russischen Sprache; mögliche Berufung Scharschmidts auf eine Pfarrstelle in Narva; Streitigkeiten mit Pfarrer [Franz Lorenz] Schrader; Hindern Scharschmidts an einem Weggang nach Sibirien durch [L.] Blumentrost; Mitteilungen betreffend [A. A. zu] Weyde in Königsberg und die Aufnahme eines Studiums in Halle von Blumentrosts Sohn Johannes Deodatus im kommenden Winter.
+#36 Siegelfragment
+#38 lat
+#40 Scharschmidt, Justus Samuel
+#41 Ludolf, Heinrich Wilhelm
+#50 Francke, August Hermann; Schrader, Franz Lorenz; Blumentrost, Laurentius, 1619-1705; Weyde, Adam Adamowitsch zu; Blumentrost, Johann Deodat
+#60 Kontaktaufnahme; Schriftverkehr; Fremdsprachenlernen; Russisch; Berufung; Streit; Theologiestudent
+#62 Moskau; Russland; Narva; Sibirien; Königsberg; Halle (Saale)
+#65 01.07.1697
+#66 1697.07.01
+#78 Restauriert 2009.
+#91 XA-RU; XA-EE
+#99e20170321/11:13:23-79444/4992 oJ.Groeschl
+#99n20021107
+
+#00 n0030783
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 14
+#25 Moskau
+#26 Moscau
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Dank für A. H. Franckes ausführliches Schreiben vom 13. Mai; Klage über die gottlose Lebensweise in Moskau; Bericht J. S. Scharschmidts über seine Tätigkeit als Informator bei L. Blumentrost; Hoffnung auf ein Medizinstudium eines Sohnes von Blumentrost [J. D. Blumentrost ?] in Halle; Vorbehalte L. Blumentrosts gegen die Hallesche Universität; Bericht über Verfehlungen des Pfarrers an der Neuen lutherischen Kirche, [F. L.] Schrader, und dessen Frau; Uneinigkeit der beiden Prediger an der Alten lutherischen Kirche, [B.] Vagetius und Juegius, in den lutherischen Lehrmeinungen; Auftreten von Vagetius gegen eine Predigt Scharschmidts in der Alten lutherischen Kirche; beabsichtigte Berufung Scharschmidts zum dritten Prediger in Narva; Freude über die angekündigte Zusendung der Schulordnung der Glauchaschen Anstalten [Historische Nachricht, wie sich die Zuverpflegung der Armen und Erziehung der Jugend in Glaucha veranlasset].
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#44 --; --; 122468023; 130048097; 123610966
+#52 Vaget, Barthold; Juegius, 1697; Blumentrost, Laurentius, 1619-1705; Blumentrost, Johann Deodat; Schrader, Franz Lorenz
+#60 Pietismusstreit; Gottlosigkeit; Medizinstudium; Vorbehalt; Berufung; Informator; Verhalten; Schulordnung; Francke, August Hermann / Historische Nachricht
+#61 Alte lutherische Kirche <Moskau>; Neue lutherische Kirche <Moskau>; Glauchasche Anstalten <Halle, Saale>; Universität <Halle, Saale>
+#62 Moskau; Halle (Saale); Narva
+#65 30.09.1697
+#66 1697.09.30
+#91 XA-RU; XA-EE
+#99e20170321/11:13:23-79307/4993 oJ.Groeschl
+#99n20021107
+
+#00 n0030784
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 15
+#25 Narva
+#26 Narwa
+#27 4 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bestätigung des Empfangs von Post und übersandten Traktaten durch J. S. Scharschmidt; Mitteilung über die Übersetzung von A. H. Franckes Schrift ["Einfältiger Unterricht, wie man die Heilige Schrift"] in die russische Sprache; Bericht Scharschmidts über die Umstände seine Weggangs aus Moskau nach Narva; Schwierigkeiten im Zusammenhang mit der Berufung Scharschmidts zum Pastor in Narva, u. a. die Vorbehalte H. Herbers betreffend; Mitteilung über den Aufenthalt von P. Michaelis in Stockholm; Bitte um Vermittlung eines Informators für die Söhne des Barons von Ungern[-Sternberg]; Absicht v. Ungern-Sternbergs, seine Söhne zum Studium nach Halle zu schicken; Mitteilung über den Postweg von Büchersendungen Franckes über Lübeck; Nachricht über die Abreise [J. D. Blumentrosts] nach Halle in Begleitung Scharschmidts.
+#36 Siegelfragment
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Herbers, Hermann; Michaelis, Philipp; Ungern-Sternberg, von, 1698; Blumentrost, Johann Deodat
+#60 Post; Buchversand; Übersetzung; Russisch; Francke, August Hermann / Einfältiger Unterricht, wie man die Heilige Schrift zu seiner wahren Erbauung lesen solle; Berufung; Pfarrstelle; Stellenangebot; Informator; Transportweg; Reise
+#62 Riga; Narva; Lübeck; Moskau; Halle (Saale); Stockholm
+#65 19.02.1698
+#66 1698.02.19
+#78 Restauriert 2009.
+#91 XA-RU; XA-EE
+#99e20170321/11:13:23-112967/4994 oJ.Groeschl
+#99n20021107
+
+#00 n0030785
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an [Heinrich Wilhelm Ludolf].
+#22 C 296
+#24 : 16
+#25 Narva
+#26 Narvae
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 lateinisch
+#34 nein
+#35 Mitteilungen zum Erhalt bzw. Nichterhalt von Briefen H. W. Ludolfs; Dank für die aus Amsterdam übersandte Grammatik; Freude über Absicht Ludolfs,den Winter in Halle zu verbringen; Enttäuschung J. S. Scharschmidts über die Absicht von [L.] Blumentrost, dessen Sohn [Johannes Deodatus] nicht in Halle, sondern in Königsberg studieren zu lassen; Bemühungen der Gemeinde in Moskau um den Verbleib Scharschmidts in Moskau; Scharschmidts Vertrauen in dieser Angelegenheit auf die göttliche Vorsehung; Mitteilung betreffend die Rückkehr [Johann] Fischers nach Deutschland; Reaktion Fischers auf die Erwähnung von Scharschmidts Abreise aus Moskau; Selbstzweifel Scharschmidts; Übersendung von Briefen des Apothekers Gosen; Mitteilung betreffend die Übersetzung von Franckes Schriften ins Russische [durch Fischer ?].
+#38 lat
+#40 Scharschmidt, Justus Samuel
+#41 Ludolf, Heinrich Wilhelm
+#50 Blumentrost, Laurentius, 1619-1705; Blumentrost, Johann Deodat; Gosen, 1698; Francke, August Hermann
+#52 Fischer, Johann, 1636-1705
+#60 Postzustellung; Dank; Ludolf, Heinrich Wilhelm / Grammatica Russica; Theologiestudent; Berufung; Pfarrstelle; Rückkehr; Selbstzweifel; Übersetzung; Russisch
+#62 Narva; Amsterdam; Halle (Saale); Königsberg; Moskau; Deutschland
+#65 04.03.1698
+#66 1698.03.04
+#78 Restauriert 2009.
+#91 XA-RU; XA-EE
+#99e20170321/11:13:23-122666/4995 oJ.Groeschl
+#99n20021107
+
+#00 n0030786
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 17
+#25 Narva
+#26 Narwa
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Postangelegenheiten; Nachricht J. S. Scharschmidts über seine Arbeitsumstände in Narva; Bitte um Vermittlung von Informatoren aus Halle, u. a. für [Baron v. Ungern-Sternberg].
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Ungern-Sternberg, von, 1698
+#60 Post; Arbeitsbedingungen; Stellenangebot; Informator
+#62 Narva; Halle (Saale)
+#65 04.03.1698
+#66 1698.03.04
+#91 XA-RU; XA-EE
+#99e20170321/11:13:23-79327/4996 oJ.Groeschl
+#99n20021107
+
+#00 n0030787
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 18
+#25 Dorpat
+#26 Dörpat
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seinen Aufenthalt in Dorpat; Mitteilung über den Nachdruck von A. H. Franckes "Anleitung zum Christentum".
+#36 Siegelfragment
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Nachdruck; Francke, August Hermann / Anleitung zum Christentum
+#62 Dorpat
+#65 18.03.1698
+#66 1698.03.18
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:23-83164/4997 oJ.Groeschl
+#99n20021107
+
+#00 n0030788
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 19
+#25 Narva
+#26 Narwa
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seine Arbeitsumstände in Narva nach einem Aufenthalt in Dorpat u. a. dessen Vorladung vor das Konsistorium betreffend; Auseinandersetzung Scharschmidts mit H. Herbers; Bitte um Vermittlung eines Informator für den Baron v. Ungern-Sternberg.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Herbers, Hermann; Ungern-Sternberg, von, 1698
+#60 Arbeitsbedingungen; Streit; Stellenangebot; Informator; Pietismusstreit
+#61 Konsistorium <Narva>
+#62 Narva; Dorpat
+#65 22.04.1698
+#66 1698.04.22
+#78 Restauriert 2009.
+#91 XA-RU; XA-EE
+#99e20170321/11:13:23-94606/4998 oJ.Groeschl
+#99n20021107
+
+#00 n0030789
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 20
+#25 Narva
+#26 Narwa
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht J. S. Scharschmidts über die Ankunft von Frau Söhnel in Narva; Bericht Scharschmidts über seine Arbeitsumstände, u. a. dessen Vorladung vor das Konsistorium; Angelegenheiten, den Versand von Druckschriften betreffend, u. a. Bestellung von Druckschriften bei A. H. Francke.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Söhnel, 1698
+#60 Ankunft; Arbeitsbedingungen; Buchversand; Buchbestellung
+#61 Konsistorium <Narva>
+#62 Narva
+#65 11.06.1698
+#66 1698.06.11
+#78 Restauriert 2009.
+#91 XA-RU; XA-EE
+#99e20170321/11:13:23-79445/4999 oJ.Groeschl
+#99n20021107
+
+#00 n0030790
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 21
+#25 Moskau
+#26 Moscau
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über die Umstände seiner Rückkehr nach Moskau; Mitteilung über Scharschmidts Furcht vor feindlich gesinnten Soldaten, die sich gleichzeitig auf dem Weg nach Moskau befanden; Mitteilung Scharschmidts über seine Auseinandersetzungen in Moskau, u. a. auf Grund des Nachdrucks von A. H. Franckes "Anleitung zum Christentum"; Ankündigung von Buchsendungen an Francke, u. a. eines russischen oder slawischen Lexikons.
+#36 Siegelfragment
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Rückkehr; Soldat; Streit; Francke, August Hermann / Anleitung zum Christentum; Nachdruck; Lexikon; Slawische Sprachen
+#62 Moskau
+#65 05.08.1698
+#66 1698.08.05
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:23-65285/5000 oJ.Groeschl
+#99n20021107
+
+#00 n0030791
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 22
+#25 Moskau
+#26 Moscau
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Trauer J. S. Scharschmidts um P. J. Spener; Auftrag J. S. Scharschmidts an A. H. Francke zur Abfassung eines Trauergedichtes für Spener; Mitteilung über die Russischübersetzungen von A. H. Franckes "Anleitung zum Christentum" und dem "Kurtzen Auzug aus der Einleitung zur Lesung der heiligen Schrift" durch Jochim; Mitteilung über die Ankunft des Zaren Peter I. aus Wien in Moskau.
+#38 deutsch
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Spener, Philipp Jakob; Peter I., Russland, Zar; Jochim, 1699
+#60 Trauer; Leichenrede; Übersetzung; Russisch; Francke, August Hermann / Anleitung zum Christentum; Francke, August Hermann / Kurzer Auszug aus der Einleitung zur Lesung der Heiligen Schrift; Ankunft
+#62 Moskau; Wien
+#65 02.09.1698
+#66 1698.09.02
+#68 2 7br 98
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:23-100880/5001 oJ.Groeschl
+#99n20021107
+
+#00 n0030792
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 23
+#25 Moskau
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über die Umstände des an ihn ergangenen Gesuchs, nach Narva auf die Stelle des gesundheitlich geschwächten H. Herbers zurückzukehren; Mitteilung über den Wunsch von Offizieren, Scharschmidt zum Feldprediger zu berufen; Bemerkungen Scharschmidts zu seiner Möglichkeit, nach Königsberg zu gehen, um sich dort ordinieren zu lassen; Bitte um den Rat Franckes.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Herbers, Hermann
+#60 Stellenbesetzung; Pfarrer / Evangelische Kirche; Feldprediger; Ordination; Persönlicher Rat
+#62 Moskau; Narva; Königsberg
+#65 30.09.1698
+#66 1698.09.30
+#68 30. 7br 98
+#91 XA-RU; XA-EE
+#99e20170321/11:13:23-74047/5002 oJ.Groeschl
+#99n20021107
+
+#00 n0030793
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 24
+#25 Moskau
+#26 Moscau
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht J. S. Scharschmidts über den Wunsch J. Fischers, an dessen Stelle in Riga zu predigen; Mitteilungen über Scharschmidts Berufung an die Schule der Neuen Kirche in Moskau und als Feldprediger; Bitte um Entsendung von Informatoren nach Livland; Mitteilung über den Aufenthalt [J. D.] Blumentrosts in Königsberg; Ankündigung der Ankunft der Studenten T. Rennert und P. Müller in Halle; Bitte um A. H. Franckes Fürsorge für Müller.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Fischer, Johann, 1636-1705; Blumentrost, Johann Deodat; Rennert, Tobias; Müller, Peter
+#60 Stellenbesetzung; Stellenangebot; Informator; Empfehlung; Fürsorge
+#61 Neue lutherische Kirche <Moskau>
+#62 Moskau; Livland; Königsberg; Halle (Saale); Riga
+#65 02.02.1699
+#66 1699.02.02
+#91 XA-RU
+#99e20170321/11:13:23-59263/5003 oJ.Groeschl
+#99n20021107
+
+#00 n0030794
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 25
+#25 Moskau
+#26 Moscau
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Übersendung von Drucksachen; Wunsch J. S. Scharschmidts nach Druck slawischer Bücher in Halle; Nachricht über die Schwierigkeit, in Moskau eine russische Bibel zu erhalten; Wunsch Scharschmidts nach Druck eines mehrsprachigen Neuen Testamentes in slawischer, griechischer, lateinischer und deutscher Sprache; Übersendung von A. H. Franckes "Anleitung zum Christentum" in der Übersetzung der Herren Jochim und Chr. Becker; Nachricht über die Kritik von B. Vagetius an Franckes "Anleitung zum Christentum"; Nachricht über die Berufung Magister Beáers als Prediger in die Ugotskoi Eisenhütte.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Jochim, 1699; Becker, Chr; Vaget, Barthold; Beáer, 1699
+#60 Buchversand; Drucklegung; Slawische Sprachen; Bibeledition; Übersetzung; Russisch; Neues Testament; Griechisch; Latein; Deutsch; Francke, August Hermann / Anleitung zum Christentum; Berufung; Prediger
+#61 Ugotskoi Eisenhütte <Moskau>
+#62 Moskau
+#63 Winter, Eduard: Halle als Ausgangspunkt der deutschen Ruálandkunde im 18. Jahrhundert. Berlin 1953, S. 212.
+#65 04.02.1699
+#66 1699.02.04
+#91 XA-DE
+#99e20170321/11:13:23-63096/5004 oJ.Groeschl
+#99n20021107
+
+#00 n0030795
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 26
+#25 Moskau
+#26 Moscau
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilung J. S. Scharschmidts über seine Arbeitsbedingungen, u. a. seine Entscheidung, nicht nach Riga zu gehen, sondern in Moskau zu bleiben; Bericht über die Auseinandersetzung nach einer Predigt Scharschmidts an der Alten Kirche, u. a. Vorwurf der Schwärmerei und des Pietismus von B. Vagetius gegen Scharschmidt; Rechtfertigung Scharschmidts; Bitte um den Rat A. H. Franckes.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Vaget, Barthold
+#60 Arbeitsbedingungen; Pietismusstreit; Schwärmer <Theologie>; Persönlicher Rat
+#61 Alte lutherische Kirche <Moskau>
+#62 Moskau; Riga
+#65 03.05.1699
+#66 1699.05.03
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:24-100881/5005 oJ.Groeschl
+#99n20021107
+
+#00 n0030796
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 27
+#25 Moskau
+#26 Moscov
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilung J. S. Scharschmidts über die Einsetzung U. T. Roloffs als seinen Gehilfen; Absicht Scharschmidts, sich in Königsberg ordinieren zu lassen; Mitteilung Scharschmidts über seinen Schüler P. Müller, dessen Vater die Ugotskoi Eisenhütte besitzt, und seine erweckte Schwester [A. Eberhard]; Nachricht über das Angebot an Scharschmidt, einem vornehmen Russen Deutschunterricht zu geben.
+#36 Siegelfragment
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Roloff, Ulrich Thomas; Müller, Peter; Eberhard, Anna
+#60 Stellenbesetzung; Gehilfe; Ordination; Deutschunterricht
+#61 Ugotskoi Eisenhütte <Moskau>
+#62 Moskau; Königsberg
+#65 11.11.1699
+#66 1699.11.11
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:24-64683/5006 oJ.Groeschl
+#99n20021107
+
+#00 n0030797
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 28
+#25 Moskau
+#26 Moscau
+#27 3 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilung über die Berufung U. T. Roloffs nach Moskau; Bericht über die Auseinandersetzungen J. S. Scharschmidts mit B. Vagetius; Nachricht über die von Vagetius in seiner eigenen Gemeindes versursachte Unruhe, den Standort der Kanzel betreffend; Bericht Scharschmidts über den verwundeten Brandenburgischen Residenten in Moskau; Mitteilungen über die erweckte [A. Eberhard]; Absicht des Zaren [Peter I.], seinen Sohn [Alexei Petrowitsch], zur Erziehung nach Dresden zu schicken; Lob Scharschmidts für das gedeihliche Wirken Peter I.; Mitteilung über die Einsetzung von 12 Bürgermeistern in Moskau; Erklärung der Absicht Scharschmidts, nach Eintreffen Roloffs in Moskau, sich in Königsberg ordinieren zu lassen.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Roloff, Ulrich Thomas; Vaget, Barthold; Peter I., Russland, Zar; Alexei, Russland, Zarewitsch, 1690-1718; Eberhard, Anna
+#60 Berufung; Streit; Pietismusstreit; Kanzel; Erziehung; Bürgermeister; Ordination
+#62 Moskau; Königsberg; Dresden
+#65 14.11.1699
+#66 1699.11.14
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:24-69207/5007 oJ.Groeschl
+#99n20021107
+
+#00 n0030798
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 29
+#25 Abo
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilung J. S. Scharschmidts über seine Reise als Begleiter von zwei jungen Leuten [u. a. W. Müller] nach Halle über Königsberg, Narva und Pernau; Scharschmidts Erkrankung an der Gelbsucht und Aufenthalt in Abo; Angelegenheiten, die beabsichtigte Ordination Scharschmidts betreffend.
+#36 Siegel
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Müller, Werner, -1750
+#60 Reise; Hepatitis; Krankheit; Ordination
+#62 Königsberg; Narva; Pernau; Abo
+#65 11.04.1700
+#66 1700.04.11
+#78 Restauriert 2009.
+#91 XA-RU; XA-EE
+#99e20170321/11:13:24-75371/5008 oJ.Groeschl
+#99n20021107
+
+#00 n0030799
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 30
+#25 Kopenhagen
+#26 Copenhagen
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilungen J. S. Scharschmidts über seine Reise aus Abo nach Kopenhagen.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Reisebericht
+#62 Abo; Kopenhagen
+#65 28.05.1700
+#66 1700.05.28
+#78 Restauriert 2009.
+#91 XA-DK
+#99e20170321/11:13:24-72865/5009 oJ.Groeschl
+#99n20021107
+
+#00 n0030800
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 31
+#25 Hamburg
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilung J. S. Scharschmidts über seine bevorstehende Reise nach Amsterdam; Hoffnung Scharschmidts auf seinen baldigen Aufenthalt in Halle und auf seine Ordination; Empfehlung des Briefüberbringers I. Adami zur Aufnahme ins Waisenhaus Halle.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Adam, der Kalmücke
+#60 Reise; Ordination; Empfehlung
+#61 Waisenhaus <Halle, Saale>
+#62 Hamburg; Amsterdam
+#65 29.07.1700
+#66 1700.07.29
+#91 XA-DE
+#99e20170321/11:13:24-67816/5010 oJ.Groeschl
+#99n20021107
+
+#00 n0030801
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 32
+#25 Quedlinburg
+#26 Qvedlinb.
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seinen Aufenthalt bei Verwandten in Quedlinburg; Plan der Weiterreise über Halberstadt, Wernigerode und Osterode nach Hannover und zurück über Berlin nach Moskau; Begegnung mit H. Lysius der auf seinem Weg nach Lübeck in Quedlinburg halt machte; Angelegenheiten, die Versendung von Büchern Scharschmidts über Lübeck betreffend; Bestellungen von Bibeln in griechischer Sprache; Bitte um Sendung einer Reiseapotheke nach Berlin oder Quedlinburg.  Postskriptum: Anmerkungen zu einigen mitgebrachten Kleinigkeiten Scharschmidts, darunter Münzen und Druckschriften.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Lysius, Heinrich
+#60 Reise; Reiseapotheke; Geschenk; Buchversand; Transportweg; Münze; Druckwerk; Buchbestellung; Bibel; Griechisch; Geschenk
+#62 Quedlinburg; Berlin; Halberstadt; Wernigerode; Osterode; Hannover; Lübeck; Moskau
+#65 26.08.1700
+#66 1700.08.26
+#78 Restauriert 2009.
+#91 XA-DE
+#99e20170321/11:13:24-87886/5011 oJ.Groeschl
+#99n20021107
+
+#00 n0030802
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 33
+#25 Berlin
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Angelegenheiten die Übersendung von Druckschriften und Büchern betreffend, u. a. Nachsendung von Büchern J. S. Scharschmidts nach Moskau; Mitteilung über Stellenbesetzungen in Russland, u .a. die Berufung von P. Michaelis nach Archangelsk; Ungewissheiten, die Ordination Scharschmidts in Berlin betreffend.
+#36 Siegelfragment
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Michaelis, Philipp
+#60 Buchversand; Stellenbesetzung; Berufung; Prediger; Ordination
+#62 Berlin; Moskau; Archangelsk
+#65 21.09.1700
+#66 1700.09.21
+#78 Restauriert 2009.
+#91 XA-DE
+#99e20170321/11:13:24-62985/5012 oJ.Groeschl
+#99n20021107
+
+#00 n0030803
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 34
+#25 Berlin
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Angelegenheiten, die Unterbringung und Versorgung [P. ?] Müllers [im Waisenhaus Halle] betreffend; Mitteilung J. S. Scharschmidts über seine Ordination in Neukölln; Absicht Scharschmidts alsbaldigst nach Königsberg abzureisen; Plan seiner Weiterreise nach Moskau unter dem Schutz eines Majors aus Moskau; Mitteilung über Ch. Töllner und [W. ?] Müller, die Scharschmidt nachreisen sollen; finanzielle Angelegenheiten, u. a. die Bezahlung der übersandten Reiseapotheke betreffend.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Müller, Peter; Müller, Werner, -1750; Toellner, Christian
+#60 Unterkunft; Speise; Ordination; Reise; Geld; Reiseapotheke
+#61 Waisenhaus <Halle, Saale>
+#62 Berlin; Neukölln; Moskau; Königsberg
+#65 24.09.1700
+#66 1700.09.24
+#68 24 7br 1700
+#78 Restauriert 2009.
+#91 XA-DE
+#99e20170321/11:13:24-61743/5013 oJ.Groeschl
+#99n20021107
+
+#00 n0030804
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 35
+#25 Königsberg
+#26 Königsb.
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seine Ankunft in Königsberg; Probleme mit der Weiterreise Scharschmidts nach Moskau; Wunsch von [J. D.] Blumentrost in Halle oder Leipzig weiter zu studieren; Mitteilung über die Rückkehr [W. ?] Müllers nach Moskau auf Wunsch seines Vaters, mit der Option, nach der Rückkehr seines Bruders [P. Müller] aus Holland erneut reisen zu dürfen.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Blumentrost, Johann Deodat; Müller, Werner, -1750; Müller, Peter
+#60 Reise; Rückkehr
+#62 Königsberg; Holland; Moskau; Halle (Saale); Leipzig
+#65 28.10.1700
+#66 1700.10.28
+#68 28 8tbr 1700
+#78 Restauriert 2009.
+#91 XA-DE
+#99e20170321/11:13:24-85857/5014 oJ.Groeschl
+#99n20021107
+
+#00 n0030805
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 36
+#25 Königsberg
+#26 Königsb.
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Klage J. S. Scharschmidts über Ch. Töllner; Nachricht Scharschmidts über seinen Aufenthalt in Königsberg und seine Absicht, sobald als möglich von dort nach Moskau abzureisen.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Reisebericht; Reise; Abreise
+#62 Königsberg; Moskau
+#65 14.11.1700
+#66 1700.11.14
+#68 14 9br 1700
+#78 Restauriert 2009.
+#91 XA-DE
+#99e20170321/11:13:24-76391/5015 oJ.Groeschl
+#99n20021107
+
+#00 n0030806
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 37
+#25 Wilna
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seine Reise von Königsberg nach Wilna, u. a. den Aufenthalt in Kaunas und die dortige Erkrankung Scharschmidts und W. Müllers; Predigten Ch. Töllners in Wilna; Wunsch der dortigen Gemeinde, ihn als ihren dritten Prediger zu berufen; Bitte um rasche Entsendung J. M. Hempels nach Königsberg; Bestellung von Büchern für Scharschmidt; Bitte um Entsendung eines Studenten als Informator für die Kinder H. M. Poppes; Ausführungen Scharschmidts zur Reise Hempels.  Postskriptum: Grüáe Scharschmidts.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Müller, Werner, -1750; Toellner, Christian; Hempel, Johann Michael; Poppe, Hans Matthias
+#60 Reise; Krankheit; Berufung; Prediger; Buchbestellung; Stellenangebot; Informator
+#62 Wilna; Königsberg; Kaunas
+#65 14.01.1701
+#66 1701.01.14
+#78 Restauriert 2009.
+#91 XA-LT
+#99e20170321/11:13:24-91526/5016 oJ.Groeschl
+#99n20021107
+
+#00 n0030807
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 38
+#25 Moskau
+#26 Moscau
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seine Amtsverrichtungen in Smolensko und Moskau; Absicht Scharschmids, in die Ugotskoi Eisenhütte und nach Nowgorod zu reisen; Mitteilung über das Angebot an Scharschmidt, als Feldprediger nach Livland zu gehen; Nachricht über die Berufung von P. Michaelis nach Archangelsk.
+#36 Siegelfragment
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Michaelis, Philipp
+#60 Amtsführung; Berufung; Feldprediger
+#61 Ugotskoi Eisenhütte <Moskau>
+#62 Moskau; Smolensko; Nowgorod; Livland; Archangelsk
+#65 24.02.1701
+#66 1701.02.24
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:24-97800/5017 oJ.Groeschl
+#99n20021107
+
+#00 n0030808
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 39
+#25 Moskau
+#26 Moscau
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seine Amtsführung in Moskau, u. a. seine Rückkehr aus Pleskau und Nowgorod; Empfehlung für die Nachfolge von Ph. Michaelis in Nowgorod; Angebot an Scharschmidt, mit Kapitän J. Meier nach Astrachan und Asov zu gehen; Bitte um Entsendung eines Predigers aus Halle nach Asov; Nachricht Scharschmidts über seine Unterkünfte in Moskau; Grüáe an P. Müller und Nachricht über dessen Mutter und Schwester [A. Eberhard].
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Michaelis, Philipp; Meier, Jeremias; Müller, Peter; Eberhard, Anna
+#60 Amtsführung; Stellenangebot; Prediger; Reise; Unterkunft
+#62 Moskau; Astrachan; Nowgorod; Asov; Halle (Saale)
+#63 Winter, Eduard: Halle als Ausgangspunkt der deutschen Ruálandkunde im 18. Jahrhundert. Berlin 1953, S. 290.
+#65 15.04.1701
+#66 1701.04.15
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:24-123814/5018 oJ.Groeschl
+#99n20021107
+
+#00 n0030809
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 40
+#25 Moskau
+#26 Moscau
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht über die Ankunft J. Pfeffingers in Moskau und dessen schlechten Gesundheitszustand und seine Amtsverrichtungen; Mitteilung über den Personalmangel in Moskau, die Ordination und die Rückkehr von P. Michaelis nach Archangelsk; Mitteilung über die kleine Schule B. Francks in der Sloboda von Moskau; finanzielle Angelegenheiten und Bestellung von Büchern.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Pfeffinger, Johannes, 1698; Michaelis, Philipp; Franck, Balthasar
+#60 Krankheit; Amtsführung; Geld; Buchbestellung
+#62 Moskau; Archangelsk
+#65 08.05.1701
+#66 1701.05.08
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:24-69731/5019 oJ.Groeschl
+#99n20021107
+
+#00 n0030810
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 41
+#25 Pavela
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seine Reise von Moskau nach Pavela; Angebot J. Meiers an Scharschmidt, mit ihm nach Persien zu reisen; Vorschläge Meiers zum Aufbau einer Handelsverbindung zwischen Persien und Halle; Klage Scharschmidts über den Personalmangel in Ruáland, u. a. Wunsch nach einem Amstnachfolger für Scharschmidt; Mitteilung über die Ordination und die Rückreise von P. Michaelis nach Archangelsk.
+#36 Siegel
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Meier, Jeremias; Michaelis, Philipp
+#60 Reisebericht; Handel; Stellenangebot; Nachfolge; Ordination
+#62 Pavela; Persien; Halle (Saale); Moskau; Ruáland; Archangelsk
+#63 Winter, Eduard: Halle als Ausgangspunkt der deutschen Ruálandkunde im 18. Jahrhundert. Berlin 1953, S. 291.
+#65 07.06.1701
+#66 1701.06.07
+#78 Restauriert 2009.
+#80 Winter, Eduard: Halle als Ausgangspunkt der deutschen Ruálandkunde im 18. Jahrhundert. Berlin 1953, S. 446-447.
+#80ahttp://192.124.243.55/digbib/winter/start.htm?image=446&size=0.75
+#91 XA-RU
+#99e20170321/11:13:24-100883/5020 oJ.Groeschl
+#99n20021107
+
+#00 n0030811
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 42
+#25 o.O
+#26 Auf der Wolga
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seinen Aufenthalt in Kasan, u. a. über die dortigen Bergleute aus Sachsen.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Reisebericht; Bergwerk
+#62 Wolga; Kasan; Sachsen
+#65 04.06.1701
+#66 1701.06.24
+#91 XA-RU
+#99e20170321/11:13:24-76286/5021 oJ.Groeschl
+#99n20021107
+
+#00 n0030812
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 43
+#25 Astrachan
+#26 Astracan
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht von J. S. Scharschmidt aus Astrachan; Vorschlag J. Meiers zur Entsendung von Missionaren aus Halle, u. a. nach Astrachan und weiter nach China; Darstellung des Bedarfs von Frauen aus Deutschland in Persien; Beschreibung der Landesumstände um Astrachan, u. a. des fehlenden Feldbaus; Mitteilung über die von Zar [Peter I.] verfügten Maánahmen zu Gunsten der Armen in Moskau; Vorstellung Scharschmidts nach Errichtung einer Sprachakademie bzw. Schule in Astrachan; Vorschläge zur Einrichtung einer Poststrecke von Moskau nach Persien und eines Waisenhauses für die Kinder der Tartaren und Kalmücken; Nachricht über politische Auseinandersetzungen unter den Tartaren.
+#37 Brief nur in Fragmenten lesbar.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Meier, Jeremias; Peter I., Russland, Zar
+#60 Mission; Frau; Landeskunde; Schule; Post; Unruhen; Waisenhaus; Gründung; Tartaren; Kalmücken
+#62 Astrachan; Moskau; Persien; Deutschland; Halle (Saale); China
+#63 Winter, Eduard: Halle als Ausgangspunkt der deutschen Ruálandkunde im 18. Jahrhundert. Berlin 1953, S. 291.
+#65 02.08.1701
+#66 1701.08.02
+#77 Fehlstellen; Tintenfraá
+#78 Restauriert 2009.
+#80 Edition der Hauptpassagen des zweiten Briefblattes siehe Winter, Eduard: Halle als Ausgangspunkt der deutschen Ruálandkunde im 18. Jahrhundert. Berlin 1953, S. 447-449.
+#80ahttp://192.124.243.55/digbib/winter/start.htm?image=447&size=0.75
+#91 XA-RU
+#99e20170321/11:13:24-86336/5022 oJ.Groeschl
+#99n20021107
+
+#00 n0030813
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 44
+#25 Moskau
+#26 Mosc.
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht J. S. Scharschmidts über seine Rückkehr aus Astrachan nach Moskau; Ankündigung eines Berichtes über diese Reise; kurze Nachricht Scharschmidts über seine Lebensumstände; Bestätigung des Empfangs von Post A. H. Franckes; Mitteilung über einen kalmückischen Knaben, den Scharschmidt aus Astrachan mitgebracht hat.
+#36 Siegelfragment
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Rückkehr; Lebensbedingungen; Posteingang; Kalmücken
+#62 Moskau; Astrachan
+#65 Januar 1703
+#66 1703.01.
+#77 Partielle Verwischung und Verblassung der Schrift durch Feuchtigkeit.
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:24-65123/5023 oJ.Groeschl
+#99n20021107
+
+#00 n0030814
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 45
+#25 Moskau
+#26 Mosc.
+#27 8 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seine Auseinandersetzungen und seinen Bruch mit J. Meier, Erkrankung Scharschmidts und seine erzwungene Abreise aus Astrachan; Bericht über die Reise zurück nach Moskau und Scharschmidts missliche Lebensumstände; Mitteilung über die Entführung eines deutschen Knaben aus der Obhut Scharschmidt in Simbirsk; Scharschmidts Bitte an die Vorsteher der Gemeinde in Moskau um ein Gesuch an den Kaiser [Peter I.] zur Rückgabe dieses Knaben.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#44 --
+#50 Peter I., Russland, Zar
+#52 Meier, Jeremias
+#60 Streit; Reisebericht; Lebensbedingungen; Entführung; Knabe
+#62 Moskau; Astrachan; Simbirsk
+#63 Winter, Eduard: Halle als Ausgangspunkt der deutschen Ruálandkunde im 18. Jahrhundert. Berlin 1953, S. 292.
+#65 03.03.1703
+#66 1703.03.03
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:24-76392/5024 oJ.Groeschl
+#99n20021107
+
+#00 n0030815
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 46
+#25 Moskau
+#26 Moscau
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Angelegenheiten, die Auseinandersetzungen um einen, aus der Obhut J. S. Scharschmidt entführten Knaben betreffend.
+#36 Siegelfragment
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Streit; Knabe; Entführung
+#62 Moskau
+#65 12.05.1703
+#66 1703.05.12
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:24-100884/5025 oJ.Groeschl
+#99n20021107
+
+#00 n0030816
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 47
+#25 Archangelsk
+#26 Archangel.
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilung J. S. Scharschmidts über seine Reise nach Archangelsk auf Grund eines aus seiner Obhut entführten Knabens; geistliche Betrachtungen; Angelegenheiten, eine Verheiratung J. S. Scharschmidts betreffend; Entsendung des kalmückischen Dieners von Scharschmidt zur Ausbildung ins Waisenhaus Halle.  Postskriptum: Liste mit Objekten für die Naturalienkammer, u. a. Geldstücke, hölzerne Kämme, kalmückische Schriften.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Reise; Streit; Knabe; Erbauung; Eheschlieáung; Münze / Sammlung; Schriftprobe; Kalmücken; Entführung
+#61 Kunst- und Naturalienkammer <Halle, Saale>; Waisenhaus <Halle, Saale>
+#62 Archangelsk
+#65 30.06.1703
+#66 1703.06.30
+#91 XA-RU
+#99e20170321/11:13:24-69588/5026 oJ.Groeschl
+#99n20021107
+
+#00 n0030817
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 48
+#25 Archangelsk
+#26 Archangel.
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Angelegenheiten, den aus der Obhut J. S. Scharschmidts entführten Knaben betreffend, u. a. die Bitte Scharschmidts an [Peter I.] zu Rückgabe des Knabens; geistliche Betrachtungen; Anfrage [Ch. ?] Riegemanns über die Rechtmäáigkeit einer Heirat mit seiner Schwägerin.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Peter I., Russland, Zar; Riegemann, Christoph
+#60 Entführung; Knabe; Erbauung; Eherecht
+#62 Archangelsk
+#65 13.07.1703
+#66 1703.07.13
+#91 XA-RU
+#99e20170321/11:13:25-74672/5027 oJ.Groeschl
+#99n20021107
+
+#00 n0101011
+#18 AFSt/H
+#20 Postskriptum von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 48a
+#25 Archangelsk
+#26 Archang.
+#27 1 Bl.
+#30 Postskriptum
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Finanzielle Angelegenheiten.
+#36 Siegel
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Geld
+#62 Archangelsk
+#65 ??.??.1702
+#66 1702
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:25-119089/5028 oJ.Groeschl
+#99n20090811 K.Hommel
+
+#00 n0030818
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 49
+#25 Archangelsk
+#26 Archang.
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht über die Ankunft von P. Michaelis in Archangelsk, um J. S. Scharschmidt wieder abzulösen; Ankündigung der Rückkehr Scharschmidts nach Moskau; Nachricht über eine schwere Erkrankung U. T. Roloffs; Mitteilung über eine Anhörung Scharschmidts und des Wojewoden von Simbirski ausgehend von Scharschmidts Gesuch an [Peter I.], die Rückkehr eines aus seiner Obhut entführten Knaben betreffend; Erklärungen zu dieser Entführungssache; Auseinandersetzung Scharschmidts mit J. W. Paus; Mitteilungen über E. J. Glück, u. a. dessen Übersetzung des Frankfurter Katechismus ins Russische; Nachricht über Herrn Lasius und F. Wilkom.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Michaelis, Philipp; Roloff, Ulrich Thomas; Peter I., Russland, Zar; Paus, Johann Werner; Glück, Ernst Johann; Lasius, 1703; Wilkom, Friedrich
+#60 Ankunft; Rückkehr; Gesuch; Anhörung; Entführung; Knabe; Streit; Katechismus; Übersetzung; Russisch
+#62 Archangelsk; Simbirsk; Moskau
+#65 20.09.1703
+#66 1703.09.20
+#68 20. 7br 1703
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:25-75285/5029 oJ.Groeschl
+#99n20021107
+
+#00 n0030819
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 50
+#25 [Kiew]
+#26 Kiov
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Angelegenheiten, eine neue Berufung J. S. Scharschmidts in Moskau betreffend; Nachricht über Scharschmidts Aufenthalt als Feldprediger in Kiew; Ankündigung seiner Rückreise nach Moskau; Bekanntschaft Scharschmidts mit F. Prokopowitsch.  Postskriptum: Wiedergabe eines Berichtes [C. D. Riegemanns ?] über die Verhältnisse in Astrachan.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Prokopovic, Feofan; Riegemann, Carl David
+#60 Berufung; Nordischer Krieg <1700-1721>; Rückreise
+#62 Kiew; Moskau; Astrachan
+#65 01.08.1713
+#66 1713.08.01
+#78 Restauriert 2009.
+#91 XA-UA; XA-RU
+#99e20170321/11:13:25-88736/5030 oJ.Groeschl
+#99n20021107
+
+#00 n0030820
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 51
+#25 Moskau
+#26 Moscau
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seine Reise von Archangelsk nach Moskau; Postangelegenheiten, u. a. die Zustellung von Post an C. D. Riegemann betreffend; Bericht über Scharschmidts Lebensumstände in Moskau, u. a. seine Auseinandersetzung mit J. W. Pause; Nachricht über den Vorwurf der Betrügerei im Zusammenhang mit Medikamenten aus dem Waisenhaus Halle.
+#36 Siegelfragment
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Riegemann, Carl David; Paus, Johann Werner
+#60 Reise; Postzustellung; Lebensbedingungen; Streit; Betrug
+#61 Waisenhaus <Halle, Saale>; Waisenhaus <Halle, Saale> / Apotheke
+#62 Archangelsk; Moskau
+#65 23.11.1703
+#66 1703.11.23
+#67 23.01.1704
+#68 23 9br 1703
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:25-100886/5031 oJ.Groeschl
+#99n20021107
+
+#00 n0030821
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 52
+#25 Moskau
+#26 Moscau
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Wiederholte Bitte um einen Rat A. H. Franckes zu Herrn Lasius; Wunsch J. S. Scharschmidts, den durch den Krieg vertriebenen Lasius bei sich aufzunehmen und als Lehrer anzustellen; Hoffnung Scharschmidts, von ihm Unterstützung in seiner Auseinandersetzung mit J. W. Pause zu erhalten; Suche nach einem Informator, der auch als Kantor tätig sein kann.  Postskriptum: Mitteilung über Ph. J. Spener und E. J. Glück.
+#36 Siegelfragment
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Lasius, 1703; Paus, Johann Werner; Spener, Philipp Jakob; Glück, Ernst Johann
+#60 Persönlicher Rat; Stellenbesetzung; Lehrer; Kantor
+#62 Moskau
+#65 22.12.1703
+#66 1703.12.22
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:25-100887/5032 oJ.Groeschl
+#99n20021107
+
+#00 n0030822
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 53
+#25 Moskau
+#26 Moscau
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilung J. S. Scharschmidts über den gütlichen Ausgang seiner Auseinandersetzung mit J. G. Gregory; Anmerkungen zur Auseinandersetzung Scharschmidts und U. T. Roloffs mit den Gemeindevorstehern und Elterlingen.
+#36 Siegel
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Gregory, Johann Gottfried; Roloff, Ulrich Thomas
+#60 Streit
+#62 Moskau
+#65 24.01.1704
+#66 1704.01.24
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:25-100888/5033 oJ.Groeschl
+#99n20021107
+
+#00 n0030823
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 54
+#25 Moskau
+#26 Mosc.
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Freude J. S. Scharschmidts über die Ankunft des von ihm nach Halle entsendeten [kalmückischen] Knaben und seines Begleiters; Bericht Scharschmidts über seine Auseinandersetzungen, u. a. mit J. G. Gregory und mit den Gemeindevorstehern und Elterlingen; Nachricht über die Vertreibung der Deutschen aus Kasan und Astrachan im Zuge des Krieges.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Gregory, Johann Gottfried
+#60 Ankunft; Streit; Vertreibung
+#61 Nordischer Krieg <1700-1721>
+#62 Moskau; Kasan; Astrachan; Halle (Saale)
+#65 29.01.1704
+#66 1704.01.29
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:25-68276/5034 oJ.Groeschl
+#99n20021107
+
+#00 n0030824
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 55
+#25 Moskau
+#26 Moscau
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Postangelegenheiten; Bericht über die Schulgründung E. J. Glücks in Moskau; Bitte um Übermittlung der Aufforderung an Herrn Lasius in Stockholm, zu J. S. Scharschmidt nach Moskau zu kommen.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Glück, Ernst Johann; Lasius, 1703
+#60 Post; Gründung; Schule; Reise
+#62 Moskau; Stockholm
+#65 08.03.1704
+#66 1704.03.08
+#77 Tintenfraá
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:25-100889/5035 oJ.Groeschl
+#99n20021107
+
+#00 n0030825
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 56
+#25 Moskau
+#26 Mosc.
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Angelegenheiten, die Schulgründung E. J. Glücks in Moskau betreffend; Bitte um Übersendung von Büchern, insbesondere Gesangbüchern, Bibeln und Neuen Testamenten.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Glück, Ernst Johann
+#60 Gründung; Schule; Buchbestellung; Gesangbuch / Evangelische Kirche; Bibel; Neues Testament
+#62 Moskau
+#65 08.03.1704
+#66 1704.03.08
+#91 XA-RU
+#99e20170321/11:13:25-76299/5036 oJ.Groeschl
+#99n20021107
+
+#00 n0030826
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an [Unbekannt].
+#22 C 296
+#24 : 57
+#25 Moskau
+#26 Mosc.
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht J. S. Scharschmidts über seine Rückkehr aus Archangelsk nach Moskau; Mitteilung über die Wahl von Elterlingen und Gemeindevorstehern; Bericht über einen Mann, der auf Grund eines unehelichen Kindes zur Konversion zum orthodoxen Glauben gezwungenen worden sein soll; Nachricht über E. J. Glück und seine Schulgründung; Absicht Scharschmidts, eine Reise nach Waronitz zu Seelsorge gefangener Schweden zu unternehmen.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#50 Glück, Ernst Johann
+#60 Wahl; Gemeindearbeit; Konversion <Religion>; Gründung; Schule; Reise; Seelsorge; Schweden; Nordischer Krieg <1700-1721>
+#61 Russisch-Orthodoxe Kirche
+#62 Moskau; Waronitz; Archangelsk
+#65 20.03.1704
+#66 1704.03.20
+#91 XA-RU
+#99e20170321/11:13:25-76167/5037 oJ.Groeschl
+#99n20021107
+
+#00 n0030827
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 58
+#25 Moskau
+#26 Mosc.
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht über die Schulgründung E. J. Glücks und dessen Pläne zu Errichtung eines Schulwesens; Mitteilungen über Stellenbesetzungen an der öffentlichen Schule Scharschmidts und das Fehlen der Reisekosten für Herrn Lasius; Klage Scharschmidts über die Verspottung seiner Person und seiner Predigten, ungeachtet des gleichzeitigen Lobes für U. T. Roloff; Besetzung des Pastorats der Ugotzkoi Eisenwerke mit J. Reichmuth.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Glück, Ernst Johann; Lasius, 1703; Roloff, Ulrich Thomas; Reichmuth, Johann
+#60 Gründung; Schule; Reisekosten; Stellenbesetzung; Pfarrer / Evangelische Kirche
+#61 Ugotskoi Eisenhütte <Moskau>
+#62 Moskau
+#65 19.07.1704
+#66 1704.07.19
+#91 XA-DE
+#99e20170321/11:13:25-74599/5038 oJ.Groeschl
+#99n20021107
+
+#00 n0030828
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 59
+#25 Moskau
+#26 Mosc.
+#27 4 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Vorschlag für den Zeitpunkt der Entsendung der von A. H. Francke für J. S. Scharschmidt ausgesuchten Ehefrau; Angelegenheiten, dessen Ehewunsch betreffend; Mitteilung über einen Geldbetrag, den Scharschmidt von Zar [Peter I.] als Lohn erhalten hat; Bitte um Weiterleitung eines Briefes an Ch. F. Scharschmidt; Bericht über den Tod einer Magd aus Narva; davon ausgehende geistliche Betrachtungen Scharschmidts.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Peter I., Russland, Zar; Scharschmidt, Christian Friedrich
+#60 Eheschlieáung; Lohn; Tod; Erbauung
+#62 Moskau; Narva
+#65 23.01.1705
+#66 1705.01.23
+#78 Restauriert 2009.
+#91 XA-RU; XA-EE
+#99e20170321/11:13:25-62736/5039 oJ.Groeschl
+#99n20021107
+
+#00 n0030829
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 60
+#25 Moskau
+#26 Mosc.
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht über die Entsendung des Sohnes von Prinz Boris Alexewitz Galliczyn in Begleitung A. Evenhagens an die Universität Prag; Ankündigung eines Besuches von A. Evenhagen bei A. H. Francke in Halle; Nachricht über die Berufung J. W. Pauses zum Rektor nach Narwa.  Postskriptum: Anmerkungen J. S. Scharschmidts zur Übersendung eines Liedes.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Goliczyn, Boris Alexejwitsch; Evenhagen, Adolph; Paus, Johann Werner
+#60 Besuch; Berufung; Rektor; Lied
+#61 Universität <Prag>
+#62 Moskau; Prag; Halle (Saale); Narwa
+#65 16.02.1705
+#66 1705.02.16
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:25-76340/5040 oJ.Groeschl
+#99n20021107
+
+#00 n0030830
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 61
+#25 Moskau
+#26 Mosc.
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Empfehlung des Überbringers des Briefs, H. v. Huyssen, Kriegsrat und Prinzenerzieher; Trauer J. S. Scharschmidts um P. J. Spener; Nachricht über die Heirat von Pastor Müller in Narva.
+#36 Siegelfragmente
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Huyssen, Heinrich von; Spener, Philipp Jakob; Müller, 1705
+#60 Trauer; Eheschlieáung
+#62 Moskau; Narva
+#65 13.03.1705
+#66 1705.03.13
+#91 XA-RU; XA-EE
+#99e20170321/11:13:25-79442/5041 oJ.Groeschl
+#99n20021107
+
+#00 n0030220
+#11 k 5302948-3
+#18 AFSt/H
+#20 Fragment eines Briefes von Justus Samuel Scharschmidt an [August Hermann Francke].
+#22 C 296
+#24 : 62
+#25 Moskau
+#26 Mosc.
+#27 2 Bl.
+#30 Brieffragment
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht über eine Stellenbesetzung mit einem trunksüchtigen Finnen auf Empfehlung von B. Vagetius; Mitteilung des Wunsches nach einem Pastor für Astrachan; Mitteilung Scharschmidts über die Besetzung der vakanten Informatoren- und Kantorenstelle während seiner Abwesenheit aus Moskau mit Herrn Zirold; Mitteilungen zu weiteren Stellenbesetzungsangelegenheiten; Klage der Elterlinge über die Abwesenheit Scharschmidts und die damit verbundene Versäumung seiner Lehrerpflichten; Postangelegenheiten.
+#37 Briefanfang fehlt!
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Vaget, Barthold; Zirold, 1705
+#60 Stellenbesetzung; Informator; Kantor; Stellenangebot; Post
+#62 Moskau; Astrachan
+#65 29.08.1705
+#66 1705.08.29
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:25-60265/5042 oJ.Groeschl
+#99n20021107
+
+#00 n0030831
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 63
+#25 Moskau
+#26 Mosc.
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht Scharschmidts über die von ihm erfahrenen Demütigungen seit seiner Rückkehr aus Astrachan; Nachricht Scharschmidts über seine Heiratsbemühungen, insbesondere die Unentschlossenheit seiner Auserwählten; Mitteilung über den Tod von L. Blumentrost.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Blumentrost, Laurentius, 1619-1705
+#60 Streit; Eheschlieáung; Todesanzeige
+#62 Moskau; Astrachan
+#65 28.11.1705
+#66 1705.11.28
+#68 21 9br 1705
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:25-75166/5043 oJ.Groeschl
+#99n20021107
+
+#00 n0030832
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 64
+#25 Moskau
+#26 Mosc.
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über den Stand seiner Heiratsbemühungen angesichts der ablehnenden Haltung seiner Auserwählten.
+#36 Siegel
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Eheschlieáung
+#62 Moskau
+#65 22.01.1706
+#66 1706.01.22
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:25-76229/5044 oJ.Groeschl
+#99n20021107
+
+#00 n0030833
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 65
+#25 [Moskau]
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Hinweis J. S. Scharschmidts auf seinen letzten Brief mit einem Bericht über seine Reise in die Tirpitzk-Eisenwerke; geistliche Betrachtungen; Bericht über die Umstände der Löschung eines Feuers nahe der alten Kirche; Nachricht über Scharschmidts Besuch bei den beiden ältesten Prinzessinnen.
+#36 Siegel
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Erbauung; Brandkatastrophe; Besuch
+#61 Tirpitzk-Eisenwerke; Alte lutherische Kirche <Moskau>
+#62 Moskau
+#65 [um 1706]
+#66 1706
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:25-121365/5045 oJ.Groeschl
+#99n20021107
+
+#00 n0030834
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 66
+#25 Moskau
+#26 Mosc.
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Klage J. S. Scharschmidts über das Ausbleiben von Post A. H. Franckes; Empfehlung für den Überbringer des Briefes, seinen ehemaligen Schüler [L. Blumentrost ?], nach Halle.
+#36 Siegel
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#44 117608629
+#52 Blumentrost, Laurentius, 1692-1755
+#60 Empfehlungsschreiben; Post
+#62 Moskau; Halle (Saale)
+#65 25.02.1706
+#66 1706.02.25
+#91 XA-RU
+#99e20170321/11:13:25-73924/5046 oJ.Groeschl
+#99n20021107
+
+#00 n0030835
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 67
+#25 Moskau
+#26 Mosc.
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch; lateinisch
+#34 nein
+#35 Klage J. S. Scharschmidts über das Ausbleiben von Post A. H. Franckes; Mitteilung über die durch den Krieg bedingte Verzögerung der Reise L. Blumentrosts zum Antritt seines Studiums nach Halle.
+#36 Siegelfragment
+#38 ger; lat
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Blumentrost, Laurentius, 1692-1755
+#60 Post; Nordischer Krieg <1700-1721>; Reise
+#62 Moskau; Halle (Saale)
+#65 03.04.1706
+#66 1706.04.03
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:25-78313/5047 oJ.Groeschl
+#99n20021107
+
+#00 n0030836
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 68
+#25 Moskau
+#26 Mosc.
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Übersendung eines Lebenslaufs J. S. Scharschmidts; Nachricht über eine Erkrankung U. T. Roloffs und das Urteil eines Mannes, der die Pansophie studiert hat, darüber; Mitteilung über die von B. Vagetius vollzogene Trauung einer bereits verheirateten Frau; Klage Scharschmidts über die Amtsführung von Vagetius.
+#36 Siegelfragment
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Roloff, Ulrich Thomas; Vaget, Barthold
+#60 Lebenslauf; Krankheit; Eheschlieáung; Bigamie; Amtsführung; Pansophie
+#62 Moskau
+#65 14.04.1706
+#66 1706.04.14
+#91 XA-RU
+#99e20170321/11:13:26-64028/5048 oJ.Groeschl
+#99n20021107
+
+#00 n0030837
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 69
+#25 Moskau
+#26 Mosc.
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über eine um die Erkentnis Gottes ringende Waise; Mittheilung über den Tod von Methodius, den Bischof von Thess[aloniki].
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Methodius
+#60 Todesanzeige; Bekehrung; Erleuchtung
+#62 Moskau; Thessaloniki
+#65 25.11.1706
+#66 1706.11.25
+#68 25 9br 1706
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:26-74229/5049 oJ.Groeschl
+#99n20021107
+
+#00 n0030838
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 70
+#25 Moskau
+#26 Mosc.
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilung über den Tod Ch. Riegemanns.
+#36 Siegel
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#44 --
+#52 Riegemann, Christoph
+#60 Todesanzeige
+#62 Moskau
+#65 24.01.1707
+#66 1707.01.24
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:26-76406/5050 oJ.Groeschl
+#99n20021107
+
+#00 n0030839
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 71
+#25 Moskau
+#26 Mosc.
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seine bevorstehende Heirat mit R. Busch.  Postskriptum: Bemerkungen Scharschmidts zu Ch. Riegemanns Landgut.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#44 --
+#50 Riegemann, Christoph
+#52 Scharschmidt, Regina
+#60 Eheschlieáung; Gut <Landwirtschaft>
+#62 Moskau
+#65 01.02.1707
+#66 1707.02.01
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:26-74702/5051 oJ.Groeschl
+#99n20021107
+
+#00 n0030840
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an die Professoren der Theologie in Halle.
+#22 C 296
+#24 : 72
+#25 Moskau
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Empfehlung J. S. Scharschmidts für P. Müller zum Studium nach Halle auf Wunsch von dessen Vater W. Müller.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#44 --
+#50 Müller, Werner, 1720
+#52 Müller, Peter
+#60 Empfehlung; Studium
+#62 Moskau; Halle (Saale)
+#65 22.04.1707
+#66 1707.04.22
+#91 XA-RU
+#99e20170321/11:13:26-76016/5052 oJ.Groeschl
+#99n20021107
+
+#00 n0030841
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 73
+#25 Moskau
+#26 Mosc.
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seinen Wunsch, mit C. D. Riegemann nach Astrachan zu reisen; Kritik der Elterlinge an dieser Entscheidung Scharschmidts.
+#36 Siegelfragment
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Riegemann, Carl David
+#60 Reise
+#62 Moskau; Astrachan
+#63 Winter, Eduard: Halle als Ausgangspunkt der deutschen Ruálandkunde im 18. Jahrhundert. Berlin 1953, S. 295.
+#65 16.06.1707
+#66 1707.06.16
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:26-73337/5053 oJ.Groeschl
+#99n20021107
+
+#00 n0030842
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 74
+#25 Astrachan
+#26 Astracan
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilung J. S. Scharschmidt über die ihn in Moskau entgegengebrachte Feindschaft, insbesondere der Elterlinge und Amtsbrüder; Bericht Scharschmidts über seine gefahrvolle Reise nach Astrachan.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Feindschaft; Reisebericht
+#62 Astrachan
+#65 03.02.1708
+#66 1708.02.03
+#91 XA-RU
+#99e20170321/11:13:26-73085/5054 oJ.Groeschl
+#99n20021107
+
+#00 n0030843
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 75
+#25 Astrachan
+#26 Astrac.
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch; lateinisch; hebräisch
+#34 nein
+#35 Klage J. S. Scharschmidts über seinen schlechten Geistes- und Leibeszustand.
+#36 Siegel
+#38 ger; lat; heb
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Lebensbedingungen
+#62 Astrachan
+#65 29.12.1708
+#66 1708.12.29
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:26-70464/5055 oJ.Groeschl
+#99n20021107
+
+#00 n0030844
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 76
+#25 Terek <Ort>
+#26 Terik
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht J. S. Scharschmidt über seine Reise von Astrachan nach Terek; Bericht über letztere, von C. D. Riegemann angelegte Stadt; Angebot des örtlichen Schamachals an Scharschmidt ihn auf einer Reise bis nach Jerusalem zu begleiten; Anmerkungen zur Reiseroute; Begründung der Ablehnung dieses Angebotes.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Reisebericht; Stadt / Gründung; Reise
+#62 Terek <Ort>; Astrachan; Jerusalem
+#63 Winter, Eduard: Halle als Ausgangspunkt der deutschen Ruálandkunde im 18. Jahrhundert. Berlin 1953, S. 295.
+#65 28.10.1709
+#66 1709.10.28
+#68 28 8br 1709
+#77 Durch Tintenfraá, Ausbleichung der Schrift und Dublierung stark eingeschränkte Lesbarkeit des Briefes.
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:26-78427/5056 oJ.Groeschl
+#99n20021107
+
+#00 n0030845
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 77
+#25 Astrachan
+#26 Astr.
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Freude J. S. Scharschmidts über einen tröstlichen Brief A. H. Franckes; Anmerkung zur auáergewöhnlichen Hitze in Astrachan; Berufung Scharschmidts durch C. D. Riegemann nach Terek.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Riegemann, Carl David
+#60 Hitze; Berufung
+#62 Astrachan; Terek <Ort>
+#65 22.07.1709
+#66 1709.07.22
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:26-78426/5057 oJ.Groeschl
+#99n20021107
+
+#00 n0030846
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 78
+#25 Terek <Ort>
+#26 Terick
+#27 1 Bl.
+#30 Brief
+#31 Abschrift
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht J. S. Scharschmidts über das Angebot des örtlichen Schamachals und obersten Priesters, ihn bis nach Jesrusalem zu begleiten; Gespräch Scharschmidts mit einem vornehmen Tartaren; Bemerkung Scharschmidts über den Bedarf an Predigern, die der einheimischen Sprachen mächtig sind und Bericht über seine Bemühungen zur Gründung von Schulen, u. a. in Astrachan; Einsetzung Ch. Gallmeiers als Präzeptor dieser Schule; Bemerkungen Scharschmidts über Gallmeier, u. a. dessen Reise nach Saratow; Mitteilungen über Scharschmidts Arbeit in Terek, insbesondere seine ebenda gegründete Schule.
+#37 Ausfertigung dieses Briefes siehe AFSt/H C 296 : 79.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Gallmeier, Christoph
+#60 Reise; Gründung; Schule; Stellenangebot; Prediger; Amtsführung
+#62 Terek <Ort>; Jerusalem; Saratow; Astrachan
+#63 Winter, Eduard: Halle als Ausgangspunkt der deutschen Ruálandkunde im 18. Jahrhundert. Berlin 1953, S. 295.
+#65 05.12.1709
+#66 1709.12.05
+#68 5 Xbr 1709
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:26-78428/5058 oJ.Groeschl
+#99n20021107
+
+#00 n0101036
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 79
+#25 Terek <Ort>
+#26 Terick
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht J. S. Scharschmidts über das Angebot des örtlichen Schamachals und obersten Priesters, ihn bis nach Jesrusalem zu begleiten; Gespräch Scharschmidts mit einem vornehmen Tartaren; Bemerkung Scharschmidts über den Bedarf an Predigern, die der einheimischen Sprachen mächtig sind und Bericht über seine Bemühungen zur Gründung von Schulen, u. a. in Astrachan; Einsetzung Ch. Gallmeiers als Präzeptor dieser Schule; Bemerkungen Scharschmidts über Gallmeier, u. a. dessen Reise nach Saratow; Mitteilungen über Scharschmidts Arbeit in Terek, insbesondere seine ebenda gegründete Schule.
+#37 Abschrift dieses Briefes siehe AFSt/H C 296 : 78.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Gallmeier, Christoph
+#60 Reise; Gründung; Schule; Stellenangebot; Prediger; Amtsführung
+#62 Terek <Ort>; Jerusalem; Saratow; Astrachan
+#63 Winter, Eduard: Halle als Ausgangspunkt der deutschen Ruálandkunde im 18. Jahrhundert. Berlin 1953, S. 295.
+#65 05.12.1709
+#66 1709.12.05
+#68 5 10br 1709
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:26-94978/5059 oJ.Groeschl
+#99n20090814 K.Hommel
+
+#00 n0030848
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an Christian Friedrich Scharschmidt.
+#22 C 296
+#24 : 80
+#25 Terek <Ort>
+#26 Terik
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht J. S. Scharschmidts über die Geburt seines Sohnes S. Scharschmidt; Bericht Scharschmidts über seine Lebens- und Arbeitsumstände sowie seinen Gemütszustand; Anmerkungen Scharschmidts zu seinem Glauben; Rechtfertigung seiner Entscheidung, nach Astrachan zu gehen.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Scharschmidt, Christian Friedrich
+#44 --
+#52 Scharschmidt, Samuel
+#60 Geburt; Lebensbedingungen; Arbeitsbedingungen; Glaube
+#62 Terek <Ort>; Astrachan
+#65 20.03.1710
+#66 1710.03.20
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:26-78430/5060 oJ.Groeschl
+#99n20021107
+
+#00 n0030849
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 81
+#25 Terek <Ort>
+#26 Terik
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht J. S. Scharschmidts über seine miálichen Lebensumstäden in Astrachan und Terek, u. a. Klage über die ihm entgegengebrachte Feindschaft; Nachricht über die Erkrankung C. D. Riegemanns.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Riegemann, Carl David
+#60 Lebensbedingungen; Animosität; Krankheit
+#62 Terek <Ort>; Astrachan
+#65 20.03.[1710]
+#66 1710.03.20
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20151202/14:45:39-78429/1 oJ.Groeschl
+#99n20021107
+
+#00 n0030850
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 82
+#25 Astrachan
+#26 Astrac
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Erkundigung J. S. Scharschmidts nach dem Verbleib von Post an A. H. Francke, einschlieálich einiger Objekte für die Kunst- und Naturalienkammer; Nachricht über die Hoffnung der Ankunft preuáischer Soldaten in Astrachan auf ihrem Weg nach Persien; Mitteilung über einen Brief Scharschmidts nach Ostindien.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Post; Ankunft; Schriftverkehr; Naturalien
+#61 Kunst- und Naturalienkammer <Halle, Saale>
+#62 Astrachan; Persien; Indien
+#65 12.01.1711
+#66 1711.01.12
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:26-64024/5061 oJ.Groeschl
+#99n20021107
+
+#00 n0030851
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 83
+#25 Moskau
+#26 Moscau
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seine Rückkehr aus Terek und Astrachan nach Moskau; Anstellung Scharschmidts bei P. Müller in der Ugotskoi Eisenhütte; Bemühungen einzelner Gemeindeglieder, Scharschmidt wieder an seine ehemalige Gemeinde zu berufen.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Müller, Peter
+#60 Rückkehr; Stellenbesetzung
+#61 Ugotskoi Eisenhütte <Moskau>
+#62 Moskau; Terek <Ort>; Astrachan
+#65 08.10.1712
+#66 1712.10.08
+#68 8 8br 1712
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:26-58329/5062 oJ.Groeschl
+#99n20021107
+
+#00 n0101037
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an Peter Müller.
+#22 C 296
+#24 : 84a
+#25 [Moskau]
+#27 1 Bl.
+#30 Brief
+#31 Abschrift
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidt über die Umstände seiner Frau R. Scharschmidt in Schabaczar, u. a. Geburt des Sohnes Salomo Scharschmidt und Erkrankung des Sohnes Samuel Scharschmidt.
+#37 Anhang zu AFSt/H C 296 : 84c.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Müller, Peter
+#50 Scharschmidt, Regina; Scharschmidt, Salomo; Scharschmidt, Samuel
+#60 Lebensbedingungen; Reise; Geburt; Krankheit
+#62 Moskau; Schabaczar
+#65 04.11.[1712]
+#66 1712.11.04
+#68 4. 9br.
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:26-100890/5064 oJ.Groeschl
+#99n20090814 K.Hommel
+
+#00 n0030853
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an Johannes Pfeffinger.
+#22 C 296
+#24 : 84b
+#25 [Moskau]
+#27 1 Bl.
+#30 Brief
+#31 Abschrift
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilung J. S. Scharschmidts über seine Frau R. Scharschmidt und seine beiden Söhne Samuel und Salomo Scharschmidt.
+#37 Anhang zu AFSt/H C 296 : 84c.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Pfeffinger, Johannes, 1698
+#50 Scharschmidt, Regina; Scharschmidt, Salomo; Scharschmidt, Samuel
+#60 Lebensbedingungen
+#62 Moskau
+#65 [04.11.1712]
+#66 1712.11.04
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:26-74692/5065 oJ.Groeschl
+#99n20021107
+
+#00 n0030854
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an Christian Friedrich Scharschmidt.
+#22 C 296
+#24 : 84c
+#25 Moskau
+#26 Moscau
+#27 1 Bl.
+#30 Brief
+#31 Abschrift
+#32 b
+#33 deutsch
+#34 nein
+#35 Übersendung von Briefabschriften zur den Lebensumständen J. S. Scharschmidts und seiner Familie; Bitte um Entrichtung eines von U. T. Roloff gliehenden Geldbetrages an das Waisenhaus Halle.
+#37 Anhänge siehe AFSt/H C 296 : 84, AFSt/H C 296 : 84a, AFSt/H C 296 : 84b; Begleitbrief siehe AFSt/H C 296 : 85.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Scharschmidt, Christian Friedrich
+#50 Roloff, Ulrich Thomas
+#60 Lebensbedingungen; Schuldentilgung
+#61 Waisenhaus <Halle, Saale>
+#62 Moskau
+#65 13.11.1712
+#66 1712.11.13
+#68 13 9br 1712
+#91 XA-RU
+#99e20170321/11:13:26-76257/5066 oJ.Groeschl
+#99n20021107
+
+#00 n0030856
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 85
+#25 Moskau
+#26 Mosc.
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Geistliche Betrachtungen; Übersendung eines Briefes mit der Bitte, ihn an Ch. F. Scharschmidt weiterzuleiten.
+#36 Siegelfragment
+#37 Begleitbrief zu AFSt/H C 296 : 84c.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Scharschmidt, Christian Friedrich
+#60 Post
+#62 Moskau
+#65 13.11.1712
+#66 1712.11.13
+#68 13 9br 1712
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:26-67715/5067 oJ.Groeschl
+#99n20021107
+
+#00 n0030857
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 86
+#25 Moskau
+#26 Moscau
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Angelegenheiten, eine erneute Vokation J. S. Scharschmidts an seine ehemalige Gemeinde [der Neuen lutherischen Kirche] betreffend.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Berufung; Prediger
+#61 Neue lutherische Kirche <Moskau>
+#62 Moskau
+#65 24.12.1712
+#66 1712.12.24
+#68 24 10br 1712
+#91 XA-RU
+#99e20170321/11:13:26-74715/5068 oJ.Groeschl
+#99n20021107
+
+#00 n0030858
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 87
+#25 Smolensk
+#26 Smolensko
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Empfehlung J. S. Scharschmidts für seinen Schwager J. Riegemann nach Halle; Mitteilung Scharschmidts über seine Berufung nach Smolensk durch A. A. zu Weyde; Erörterung seiner weiteren beruflichen Möglichkeiten, u. a. des Angebotes einer Informatorenstelle in Tobolsk; Offenbarung des Wunsches Scharschmidts, als Informator ohne öffentliches Amt in Moskau zu arbeiten.
+#36 Siegelfragmente
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Riegemann, Johann; Weyde, Adam Adamowitsch zu
+#60 Empfehlungsschreiben; Stellenbesetzung; Stellenangebot; Informator; Nordischer Krieg <1700-1721>
+#62 Smolensk; Tobolsk; Moskau; Halle (Saale)
+#65 29.01.1713
+#66 1713.01.29
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:27-64255/5069 oJ.Groeschl
+#99n20021107
+
+#00 n0030859
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 88
+#25 Nischna
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seine Lebensumstände seit dem Abzug der russischen Truppen aus Smolensk und über seinen nunmehrigen Aufenthalt in Nischna; Erkundigung nach der Ankunft J. Riegemanns in Halle; Mitteilung über die Absicht, Scharschmidt an die Alte lutherische Kirche in Moskau zu berufen; Bestellung von Büchern im Auftrag A. A. zu Weydes.
+#36 Siegelfragment
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Weyde, Adam Adamowitsch zu
+#60 Lebensbedingungen; Nordischer Krieg <1700-1721>; Berufung; Buchbestellung
+#61 Alte lutherische Kirche <Moskau>
+#62 Nischna; Smolensk; Moskau
+#65 20.04.1713
+#66 1713.04.20
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:27-74065/5070 oJ.Groeschl
+#99n20021107
+
+#00 n0030860
+#11 k 5302948-3
+#18 AFSt/H
+#20 Postskriptum von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 89
+#25 Nischna
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Hinweise für den Postweg über Breslau nach Ruáland, insbesondere Übersendung einer Postanschrift.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Transportweg; Post; Anschrift
+#62 Nischna; Breslau; Ruáland
+#65 04.05.1713
+#66 1713.05.04
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:27-100891/5071 oJ.Groeschl
+#99n20021107
+
+#00 n0030861
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 90
+#25 Moskau
+#26 Mosco
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Postangelgenheiten, u. a. Erkundigung nach dem Eingang von Post J. S. Scharschmidts in Halle; Aufklärung über das Gerücht seiner Gefangenschaft bei den Tartaren; Bericht über die Reise Scharschmidts aus Kiew zurück nach Moskau; Mitteilung über ein Gesuch von B. Vagetius an A. A. zu Weyde um Entlassung Scharschmidts aus der Armee; Angelegenheiten, die Berufung Scharschmidts als Prediger nach Moskau betreffend.
+#36 Siegel
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Vaget, Barthold; Weyde, Adam Adamowitsch zu
+#60 Post; Gerücht; Gefangenschaft; Tartaren; Reise; Demission; Militär; Nordischer Krieg <1700-1721>; Berufung; Prediger
+#62 Moskau; Kiew
+#65 04.09.1713
+#66 1713.09.04
+#68 4 7br. 1713
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:27-73819/5072 oJ.Groeschl
+#99n20021107
+
+#00 n0030862
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 91
+#25 Moskau
+#26 Mosco
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Angelegenheiten, die Berufungen J. S. Scharschmidts [an die Alte und die Neue lutherische Kirche] in Moskau betreffend, u. a. dessen Wunsch, kein öffentliches Amt mehr zu bekleiden; Bericht über die Erkrankung seiner Ehefrau R. Scharschmidt und die seiner Kinder Samuel und Salomo Scharschmidt, letzterer an den Pocken; Ausführungen Scharschmidts über das Kirchenwesen in Ruáland und Moskau.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Scharschmidt, Regina; Scharschmidt, Salomo; Scharschmidt, Samuel
+#60 Berufung; Krankheit; Pocken; Kirchenwesen
+#61 Alte lutherische Kirche <Moskau>; Neue lutherische Kirche <Moskau>
+#62 Moskau
+#65 27.01.1714
+#66 1714.01.27
+#77 Tintenfraá
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:27-78016/5073 oJ.Groeschl
+#99n20021107
+
+#00 n0030863
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 92
+#25 Moskau
+#26 Mosco
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Anmerkung Scharschmidts zur Ablehnung seiner Berufungen an die Alte und die Neue lutherischen Kirche in Moskau; Žuáerungen des in St. Petersburg zum Hofprediger berufenen Pastors Müller über Scharschmidt.
+#36 Siegel
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Müller, 1705
+#60 Berufung
+#61 Alte lutherische Kirche <Moskau>; Neue lutherische Kirche <Moskau>
+#62 Moskau; Sankt Petersburg
+#65 18.02.1714
+#66 1714.02.18
+#77 Tintenfraá
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:27-74719/5074 oJ.Groeschl
+#99n20021107
+
+#00 n0030867
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 97
+#25 Ugodka
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht J. S. Scharschmidts über seine Vokation nach Ugotka; Bitte um Weitersendung eines Briefes an Ch. F. Scharschmidt.
+#36 Siegel
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Scharschmidt, Christian Friedrich
+#60 Berufung; Post
+#62 Ugodka
+#65 04.11.1714
+#66 1714.11.04
+#68 4 9br. 1714
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:27-74707/5080 oJ.Groeschl
+#99n20021107
+
+#00 n0030868
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 98
+#25 Ugodka
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht J. S. Scharschmidts über seine Lebensumstände, u. a. eine erlittene Durchfallerkrankung, Gerücht seiner Gefangennahme durch die Tartaren; Hinweise auf Briefe Ch. Lados und Ankündigung der Übersendung von Abschriften dieser Briefe; Anmerkungen Scharschmidts zur Nachricht von Lado über die Geburt seines Sohnes A. G. Lado.
+#36 Ausfertigung
+#37 Eine der angekündigten Briefabschriften siehe AFSt/H C 296 : 96.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Lado, Christian, 1714; Lado, August Gottfried
+#60 Lebensbedingungen; Krankheit; Durchfall; Gefangenschaft; Tartaren; Geburt
+#62 Ugodka
+#65 06.04.1715
+#66 1715.04.06
+#77 Durch Tintenfraá, Fehlstellen und Dublierung schlechte Lesbarkeit des Textes.
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:27-74675/5081 oJ.Groeschl
+#99n20021107
+
+#00 n0030869
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 101
+#25 Ugodka
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Freude über die Ankunft J. Riegemanns in Halle; Nachricht über die Erkrankung R. Scharschmidts und S. Scharschmidts; Übersendung von Briefen Ch. Lados, u. a. über die Vorgänge in Sibirien.  Postskriptum: Mitteilungen über Ch. Lado und Kritik Scharschmidts an dessen Lebenswandel.
+#37 Anlagen siehe AFSt/H C 296 : 99 und AFSt/H C 296 : 100.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#44 --
+#50 Riegemann, Johann; Scharschmidt, Regina; Scharschmidt, Salomo
+#52 Lado, Christian, 1714
+#60 Ankunft; Krankheit; Briefsendung; Lebensführung
+#62 Ugodka; Halle (Saale); Sibirien
+#65 31.01.1716
+#66 1716.01.31
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:27-58227/5084 oJ.Groeschl
+#99n20021107
+
+#00 n0030870
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 102
+#25 Ugodka
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Angelegenheiten die Berufung J. S. Scharschmidts an die [Neue lutherische Kirche] in Moskau betreffend, u. a. Klage über das Schweigen der Amtsbrüder U. T. Roloff und J. Hassenstein.; Aufzählung der Prediger der Neuen lutherischen Kirche in Moskau seit ihrer Gründung; Mitteilungen zu den Umständen der Alten lutherischen Kirche in Moskau.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Roloff, Ulrich Thomas; Hassenstein, Joh
+#60 Berufung; Stellenbesetzung; Prediger; Kirchenwesen
+#61 Alte lutherische Kirche <Moskau>; Neue lutherische Kirche <Moskau>
+#62 Ugodka; Moskau
+#65 02.02.1716
+#66 1716.02.02
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:27-74678/5085 oJ.Groeschl
+#99n20021107
+
+#00 n0030871
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 103
+#25 Ugodka
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Angelegenheiten die Berufung J. S. Scharschmidts an die [Neue lutherische Kirche] in Moskau betreffend.
+#36 Siegel
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Berufung; Prediger
+#61 Neue lutherische Kirche <Moskau>
+#62 Ugodka; Moskau
+#65 17.02.1716
+#66 1716.02.17
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:27-71698/5086 oJ.Groeschl
+#99n20021107
+
+#00 n0030872
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 104
+#25 Ugodka
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilung J. S. Scharschmidts über seine Absicht, noch einmal zu A. H. Francke nach Halle zu reisen; Bemühungen Scharschmidts um einen Stellvertreter in Ugodka; Mitteilung über den Aufenthalt Pastor Müllers in Ugotka und den Tod seiner Tochter.
+#36 Siegelfragmente
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Müller, 1705
+#60 Reise; Stellenbesetzung; Tod
+#62 Ugodka
+#65 25.10.1716
+#66 1716.10.25
+#68 25 8br 1716
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:27-74687/5087 oJ.Groeschl
+#99n20021107
+
+#00 n0030873
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 105
+#25 Halle (Saale)
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilung J. S. Scharschmidts über seine noch nicht getroffene Entscheidung zur Annahme einer ihm angebotenen Hospitalpredigerstelle; Anmerkungen Scharschmidts zu seiner generellen Unwilligkeit, eine Predigerstelle anzunehmen, u. a. Selbstzweifel an seiner Eignung.
+#36 Siegelfragment
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Stellenangebot; Stellenbesetzung; Prediger
+#62 Halle (Saale)
+#65 10.05.1718
+#66 1718.05.10
+#78 Restauriert 2009.
+#91 XA-DE
+#99e20170321/11:13:27-73950/5088 oJ.Groeschl
+#99n20021107
+
+#00 n0030874
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 106
+#25 Quedlinburg
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilungen Scharschmidts über seinen Aufenthalt bei seinem Bruder Ch. F. Scharschmidt in Quedlinburg, u. a. die Übernahme von Predigten sowie Aufenthalte Scharschmidts in Braunschweig und Helmstedt; Begegnung Scharschmidts mit dem durchreisenden Zar [Peter I.] in Halberstadt.
+#36 Siegelfragmente
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Scharschmidt, Christian Friedrich; Peter I., Russland, Zar
+#60 Reise; Lebensbedingungen; Arbeitsbedingungen
+#62 Quedlinburg; Braunschweig; Helmstedt; Halberstadt
+#65 28.09.1719
+#66 1719.09.28
+#68 28 7br 1719
+#78 Restauriert 2009.
+#91 XA-DE
+#99e20170321/11:13:28-74681/5089 oJ.Groeschl
+#99n20021107
+
+#00 n0030875
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 107
+#25 Halle (Saale)
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Auskunft J. S. Scharschmidts über eine namentlich nicht genannte Person.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#62 Halle (Saale)
+#65 28.08.1720
+#66 1720.08.28
+#78 Restauriert 2009.
+#91 XA-DE
+#99e20170321/11:13:28-69693/5090 oJ.Groeschl
+#99n20021107
+
+#00 n0030876
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 108
+#25 [Halle (Saale)]
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Kurznachricht J. S. Scharschmidts über Schweden, Finnland und Sibirien.
+#36 Sieglfragment
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Politik
+#62 Halle (Saale); Schweden, Finnland; Sibirien
+#65 20.08.1722
+#66 1722.08.20
+#78 Restauriert 2009.
+#91 XA-DE
+#99e20170321/11:13:28-72561/5091 oJ.Groeschl
+#99n20021107
+
+#00 n0030877
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 109
+#25 [Halle (Saale)]
+#27 1 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Nachricht J. S. Scharschmidts über eine von ihm verfasste Schrift zur Verbreitung des Evangeliums bis in der Orient; Bitte um Rückgabe von Briefen Scharschmidts mit Ausführungen zu seinem Streit mit dem Kirchenkollegium.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Manuskript; Verkündigung; Streit
+#62 Halle (Saale); Orient
+#65 [nach 1717]
+#66 1717
+#77 2009
+#91 XA-DE
+#99e20170321/11:13:28-74654/5092 oJ.Groeschl
+#99n20021107
+
+#00 n0030878
+#11 k 5302948-3
+#18 AFSt/H
+#20 Fragment eines Briefes von Justus Samuel Scharschmidt an [August Hermann Francke ?].
+#22 C 296
+#24 : 110
+#25 Smolensk
+#26 Smolensko
+#27 2 Bl.
+#30 Brieffragment
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Angelegenheiten, die Besetzung von Predigerstellen betreffend, u. a. die Übernahme von Reisekosten, und die erneute Berufung J. S. Scharschmidts nach Moskau betreffend, u. a. die Gehaltsfrage sowie den Protest des Kirchenkollegiums.  Postskriptum: Von U. T. Roloff übermittelte Fragen an Scharschmidts zu seiner erneuten Berufung an die Gemeinde [der Neuen lutherischen Kirche].
+#37 Briefanfang fehlt!
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Roloff, Ulrich Thomas
+#60 Stellenbesetzung; Prediger; Gehalt
+#61 Neue lutherische Kirche <Moskau>; Reisekosten
+#62 Smolensk; Moskau
+#65 30.01.1713
+#66 1713.01.30
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:28-64104/5093 oJ.Groeschl
+#99n20021107
+
+#00 n0030879
+#11 k 5302948-3
+#18 AFSt/H
+#20 Fragment eines Briefes von Justus Samuel Scharschmidt an [August Hermann Francke].
+#22 C 296
+#24 : 111
+#25 [Moskau]
+#27 2 Bl.
+#30 Brieffragment
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilung zur Berufung J. Reichmuths als Lehrer, u. a. die Einwände der Prediger; Nachricht über die Feindschaft Scharschmidts mit Magister Helwich; dessen Empfehlung von Schülern in die Obhut seines einstigen Gegners Scharschmidt; Mitteilung über den in doppelten Ehebruch lebenden J. Meier; Bericht des Chirurgen Ratgen aus Kasan; Aufwendung von Kirchengeldern für die schwedischen Gefangenen; Nachricht über die Erkrankung von Herrn Müller in St. Petersburg.
+#37 Briefanfang fehlt!
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#50 Helwich, 1705; Ratgen, 1705; Meier, Jeremias; Müller, 1705; Reichmuth, Johann
+#60 Berufung; Lehrer; Ehebruch; Gefangener; Schweden; Nordischer Krieg <1700-1721>; Krankheit
+#62 Moskau; Kasan; Sankt Petersburg
+#65 [um 1705]
+#66 1705
+#91 XA-RU
+#99e20170321/11:13:28-68166/5094 oJ.Groeschl
+#99n20021107
+
+#00 n0030880
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Christian Friedrich Scharschmidt an August Hermann Francke.
+#22 C 296
+#24 : 112
+#25 Quedlinburg
+#26 Quedl.
+#27 2 Bl.
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht von Ch. F. Scharschmidt über die Erkrankung seiner Ehefrau A. C. Scharschmidt.
+#36 Siegelfragmente
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#44 --
+#52 Scharschmidt, Anna Catharina
+#60 Krankheit
+#62 Quedlinburg
+#65 14.09.1693
+#66 1693.09.14
+#68 14. 7br. 1693.
+#78 Restauriert 2009.
+#91 XA-DE
+#99e20170321/11:13:28-71874/5095 oJ.Groeschl
+#99n20021107
+
+#00 n0030916
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an Franz Lorenz Schrader.
+#22 C 296
+#24 : 154
+#25 Moskau
+#26 Mosco
+#27 1 Bl.
+#30 Brief
+#31 Abschrift
+#32 b
+#33 deutsch
+#34 nein
+#35 Mitteilung J. S. Scharschmidt über die Bekümmernisse in der Gemeinde über F. L. Schrader und dessen Ehefrau; Aufforderung Scharschmidts zur Beilegung dieses Ehekonfliktes.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Schrader, Franz Lorenz
+#60 Ehekonflikt
+#62 Moskau
+#65 11.11.1697
+#66 1697.11.11
+#68 11 9br. 1697
+#78 Restauriert 2009.
+#91 XA-RU
+#99e20170321/11:13:30-74601/5141 oJ.Groeschl
+#99n20021107
+
+#00 n0034404
+#11 k 5302948-3
+#18 AFSt/H
+#20 Bericht von Justus Samuel Scharschmidt.
+#22 C 491
+#24 : 6
+#25 [Astrachan]
+#27 2 Bl.
+#30 Bericht
+#31 Ausfertigung
+#32 l
+#33 deutsch
+#34 nein
+#35 Bericht über die Umstände, unter denen der Knabe Enos zu J. S. Scharschmidt kam: Situation in Russland im Jahre 1707, Schicksal von Enos, Aufnahme des Knaben bei J. S. Scharschmidt in Astrachan.
+#37 Titel des Berichts: "Einige Umstände wegen Enos, wann, wie und wo er in meine Hände kommen".
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#44 p0003238
+#52 Enos
+#60 Bericht; Schicksal
+#62 Russland; Astrachan
+#65 [1710 ?]
+#66 1710
+#78 Restauriert 2007.
+#91 XA-RU
+#99e20170321/11:16:43-86563/8701 oJ.Groeschl
+#99n20021108
+
+#00 n0040652
+#11 k 5302948-3
+#18 AFSt/H
+#20 Brief von Justus Samuel Scharschmidt an [Christian Friedrich Scharschmidt].
+#22 C 818
+#24 : 3
+#25 Narva
+#27 4 Bl.
+#30 Brief
+#31 Abschrift
+#32 b
+#33 deutsch
+#34 nein
+#35 Bericht über J. S. Scharschmidts Erlebnisse in Moskau und Narva in den Jahren 1696-1698.
+#38 ger
+#40 Scharschmidt, Justus Samuel
+#41 Scharschmidt, Christian Friedrich
+#60 Bericht
+#62 Narva
+#65 17.05.1698
+#66 1698.05.17
+#77 Oberflächenschmutz.
+#91 XA-RU; XA-EE
+#99e20140918/09:02:21-128170/306 oJ.Groeschl
+#99n20021111
+
+#00 n0104822
+#11 k 5302948-3
+#18 AFSt/H
+#18aFranckesche Stiftungen <Halle, Saale> / Archiv
+#20 Verschiedene Notizen von Justus Samuel Scharschmidt aus Russland.
+#22 D 67
+#24 b 225-227
+#40 Scharschmidt, Justus Samuel
+#99e20131120/11:31:26-193465/2375 oJ.Groeschl
+#99n20120503 M. Huebner
+
+#00 n0043765
+#11 k 5302948-3
+#18 AFSt/H
+#18aFranckesche Stiftungen <Halle, Saale> / Archiv
+#20 Verschiedene Notizen von Justus Samuel Scharschmidt aus Russland.
+#22 D 67
+#24 b 225-227
+#25 o.O
+#40 Scharschmidt, Justus Samuel
+#65 o.J.
+#66 o.D.
+#99e20170315/16:39:42-26362/1724 oJ.Groeschl
+#99n20021112
+
+#00 n0044292
+#11 k 5302948-3
+#18 AFSt/H
+#18aFranckesche Stiftungen <Halle, Saale> / Archiv
+#20 Bericht von Justus Samuel Scharschmidt von einigen guten Bewegungen unter den Tartern.
+#22 D 80
+#24 , 759-762
+#25 o.O
+#40 Scharschmidt, Justus Samuel
+#65 o.J.
+#66 o.D.
+#99e20170315/16:39:52-26737/1924 oJ.Groeschl
+#99n20021112
+
+#00 n0044413
+#11 k 5302948-3
+#18 AFSt/H
+#18aFranckesche Stiftungen <Halle, Saale> / Archiv
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 D 81
+#24 , 1024
+#25 Moskau
+#30 Brief
+#32 b
+#40 Scharschmidt, Justus Samuel
+#62 Moskau
+#65 28.03.1705
+#66 1705.03.28
+#77 Mechanische Schäden, Ränder.
+#79 Die Handschrift ist aus konservatorischen Gründen für die Benutzung gesperrt. Eine Reproduktion zur Einsichtnahme liegt vor.
+#91 XA-RU
+#99e20131120/11:37:09-49430/3258 oJ.Groeschl
+#99n20021112
+
+#00 n0044426
+#11 k 5302948-3
+#18 AFSt/H
+#18aFranckesche Stiftungen <Halle, Saale> / Archiv
+#20 Justus Samuel Scharschmidts Autobiographie
+#22 D 83
+#24 , 521-837
+#40 Scharschmidt, Justus Samuel
+#99e20131120/11:37:15-22504/3275 oJ.Groeschl
+#99n20021112
+
+#00 n0044428
+#11 k 5302948-3
+#18 AFSt/H
+#18aFranckesche Stiftungen <Halle, Saale> / Archiv
+#20 Acta inter Dr. Michelis, Pastor Archangelsk et me Justus Samuel Scharschmidt, übersandt von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 D 83
+#24 , 852-859
+#31 Abschrift
+#40 Scharschmidt, Justus Samuel
+#99e20131120/11:37:16-22506/3277 oJ.Groeschl
+#99n20021112
+
+#00 n0044645
+#11 k 5302948-3
+#18 AFSt/H
+#18aFranckesche Stiftungen <Halle, Saale> / Archiv
+#20 Brief von Justus Samuel Scharschmidt an [Theurer Vater].
+#22 D 88
+#24 Bl. 97-98
+#25 Königsberg
+#30 01.10.1694
+#31 1694.10.01
+#40 Scharschmidt, Justus Samuel
+#65 01.10.1694
+#66 1694.10.01
+#99e20131120/11:39:04-22611/3567 oJ.Groeschl
+#99n20021112
+
+#00 n0045191
+#11 k 5302948-3
+#18 AFSt/H
+#18aFranckesche Stiftungen <Halle, Saale> / Archiv
+#20 Brief von Justus Samuel Scharschmidt an August Hermann Francke.
+#22 D 93
+#24 , 1-6
+#25 Moskau
+#30 Brief
+#31 Abschrift
+#32 b
+#40 Scharschmidt, Justus Samuel
+#62 Moskau
+#65 30.09.1697
+#66 1697.09.30
+#91 XA-RU
+#99e20131120/11:43:10-23019/4229 oJ.Groeschl
+#99n20021112
+
+#00 n0045197
+#11 k 5302948-3
+#18 AFSt/H
+#18aFranckesche Stiftungen <Halle, Saale> / Archiv
+#20 Brief von Justus Samuel Scharschmidt an [August Hermann Francke].
+#22 D 93
+#24 , 58-60
+#30 Brief
+#31 Abschrift
+#40 Scharschmidt, Justus Samuel
+#65 11.06.1698
+#66 1698.06.11
+#99e20131120/11:43:12-23025/4237 oJ.Groeschl
+#99n20021112
+
+#00 n0007747
+#11 k 5302948-3
+#18 Stab/F
+#20 Brief von Johann Christian Gründler an August Hermann Francke.
+#22 28/11
+#24 : 1
+#25 Sclaboda
+#28 19
+#29 715-716
+#30 Brief
+#31 Ausfertigung
+#32 b
+#33 deutsch
+#35 Gründler kündigt u. a. die Ankunft zweier hochgestellter Zöglinge im Pädagogium Halle an. Er sendet Abschriften von Briefen J. S. Scharschmidts, in denen aus Astrachan und Terek berichtet wird.
+#37 Vgl. Stab/F 1a/1A : 6a.
+#38 ger
+#40 Gründler, Johann Christian; Scharschmidt, Justus Samuel
+#41 Francke, August Hermann
+#60 Schriftverkehr; Schüler; Schule
+#61 Königliches Pädagogium <Halle, Saale>
+#62 Astrachan; Halle (Saale); Sclaboda; Terek <Ort>
+#65 11.01.1710
+#66 1710.01.11
+#79 Fotoaufträge für den Francke-Nachlass sind grundsätzlich unter Angabe des Bestands, der Kapsel- und Mappennummer sowie der Mikrofilm- und Aufnahmenummer an die Staatsbibliothek zu Berlin - Preuáischer Kulturbesitz zu richten. Nur dort sind die Originale der Handschrift einsehbar.
+#99e20170321/12:03:39-110348/50360 oJ.Groeschl
+#99n20021028
+
