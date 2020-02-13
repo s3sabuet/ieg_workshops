@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="author" content="Moritz Schepp <moritz.schepp@gmail.com>">
+
+  <link rel="stylesheet" href="reveal.js-3.9.2/css/reveal.css">
+  <link rel="stylesheet" href="reveal.js-3.9.2/css/theme/white.css">
+
+  <style type="text/css">
+    .reveal section img.no-frame {
+      border: none;
+      box-shadow: none;
+      background: none;
+    }
+
+    .reveal section img.correct-003 {
+      position: relative;
+      left: 10px;
+    }
+
+    .reveal section table.smaller {
+      font-size: 0.8em;
+    }
+  </style>
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+      <section
+        data-background-color="#1e1e1e"
+        data-background-image="https://coneda.net/wp-content/uploads/2020/02/logo_k_big.png"
+        data-background-size="contain"
+        data-background-opacity="0.3"
+        data-background-position="left"
+      >
+        <h1>KOR</h1>
+      </section>
+
+      <section>
+        <h2>Aufbau</h2>
+
+        <section data-transition="fade">
+          <img src="graph.001.png" class="no-frame">  
+        </section>
+        
+        <section data-transition="fade">
+          <img src="graph.002.png" class="no-frame">
+        </section>
+
+        <section data-transition="fade">
+          <img src="graph.003.png" class="no-frame correct-003">
+        </section>
+
+        <aside class="notes">Bla</aside>
+      </section>
+
+      <section>
+        <h2>Aufbau</h2>
+
+        <section data-transition="fade">
+          <img src="apis.001.png" class="no-frame">  
+        </section>
+        
+        <section data-transition="fade">
+          <img src="apis.002.png" class="no-frame">
+        </section>
+
+        <section data-transition="fade">
+          <img src="apis.003.png" class="no-frame">
+        </section>
+
+        <section data-transition="fade">
+          <img src="apis.004.png" class="no-frame">
+        </section>
+
+        <section data-transition="fade">
+          <img src="apis.005.png" class="no-frame">
+        </section>
+      </section>
+
+      <section data-background-color="#123456">
+        <h2>Daten-Schnittstellen</h2>
+
+        <ul>
+          <li class="fragment">
+            <strong>Script</strong>: Zugriff auf Server erforderlich,
+            Programmierkenntnisse erforderlich (Ruby und ActiveRecord)
+          </li>
+          <li class="fragment">
+            <strong>Spreadsheet Import/Export</strong>: Zugriff auf Server
+            erforderlich, nicht alle Daten inbegriffen
+          </li>
+          <li class="fragment">
+            <strong>APIs</strong>: eigene Tools einsetzbar, vollständig, remote
+            einsetzbar
+          </li>
+        </ul>
+      </section>
+
+      <section data-background-color="#123456">
+        <h2>Hands on!</h2>
+        
+        <ol>
+          <li class="fragment">
+            Alle Werke von <a href="https://kor.uni-frankfurt.de">kor.uni-frankfurt.de</a> herunterladen
+          </li>
+          <li class="fragment">
+            Datierungen extrahieren
+          </li>
+          <li class="fragment">
+            Verteilung visualisieren
+          </li>
+        </ol>
+      </section>
+
+      <section data-background-color="#123456">
+        <h2>Links</h2>
+
+        <ul>
+          <li><a href="https://github.com/ieg-dhr/ieg_workshops/tree/master/2020_02_dariah_conedakor">Präsentation & Material</a></li>
+          <li>
+            Kor:</a>
+            <ul>
+              <li><a href="https://coneda.net">Website</a></li>
+              <li><a href="https://github.com/coneda/kor">Github</a></li>
+              <li><a href="https://travis-ci.org/coneda/kor/branches">Travis CI</a></li>
+            </ul>
+          </li>
+          <li>
+            Dokumentation: <a href="https://github.com/coneda/kor">github.com/coneda/kor</a>
+            <ul>
+              <li><a href="https://github.com/coneda/kor/tree/master/app/models">Modellklassen</a></li>
+              <li><a href="https://guides.rubyonrails.org/active_record_basics.html">ActiveRecord</a> Dokumentation</li>
+              <li><a href="https://pandas.pydata.org/">pandas</a></li>
+              <li><a href="https://seaborn.pydata.org/">seaborn</a></li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+
+      <section data-background-color="#123456">
+        <h2>Vielen Dank!</h2>
+
+        <p style="font-size: 0.6em">
+          Moritz Schepp<br />
+          <a href="https://wendig.io">Wendig IO</a>
+        </p>
+      </section>
+
+      <section data-background-color="#123456">
+        <h2>Fragen?</h2>
+      </section>
+    </div>
+  </div>
+  <script src="reveal.js-3.9.2/js/reveal.js"></script>
+  <script>
+    Reveal.initialize({
+      hash: true,
+      history: true,
+      fragmentInURL: true,
+      embedded: true,
+      slideNumber: true,
+      totalTime: 75 * 60, // 1 hour, 15 minutes
+      controlsTutorial: false,
+      navigationMode: 'linear'
+    });
+  </script>
+</body>
+</html>
