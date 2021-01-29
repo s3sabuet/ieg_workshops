@@ -1,3 +1,3 @@
 # ieg_workshops
 
-This repository contains educational material and sample data for the public digital humanities workshops hosted by the Institute of European History in Mainz, Germany.
+This repository contains presentations, educational material and sample data from digital humanities workshops hosted by the DH Lab of the Institute of European History in Mainz, Germany.
